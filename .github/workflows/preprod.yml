@@ -15,11 +15,13 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
 
-    #- name: Build
-     # uses: jerryjvl/jekyll-build-action@v1
+    - name: Build
+      uses: jerryjvl/jekyll-build-action@v1
 
     - name: Sync output to S3
       run: |
         aws configure set aws_access_key_id ${{ secrets.AWS_ACCESS_KEY_ID }}
         aws configure set aws_secret_access_key ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-        aws s3 ls --endpoint-url ${{ secrets.CLEVER_END_POINT }}
+        aws s3 sync ./_site/ s3://tadx-hprod --endpoint-url ${{ secrets.CLEVER_END_POINT }}
+        
+#        aws s3 ls --endpoint-url ${{ secrets.CLEVER_END_POINT }}
