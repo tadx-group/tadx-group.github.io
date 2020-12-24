@@ -15,23 +15,15 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
 
-    - uses: actions/cache@v2
-      with:
-        path: vendor/bundle
-        key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
-        restore-keys: |
-          ${{ runner.os }}-gems-
+#    - uses: actions/cache@v2
+#      with:
+#        path: vendor/bundle
+#        key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
+#        restore-keys: |
+#          ${{ runner.os }}-gems-
 
     - name: Build
-      run: |
-        docker run --rm \
-        --volume="$PWD:/srv/jekyll" \
-        --volume="$PWD/vendor/bundle:/usr/local/bundle" \
-        jekyll/jekyll:3.8 \
-        jekyll build
-
-#    - name: Build
-#      uses: jerryjvl/jekyll-build-action@v1
+      uses: jerryjvl/jekyll-build-action@v1
 
     - name: Sync output to S3
       run: |
