@@ -1,6 +1,0 @@
-name: Create env dev
-
-on:
-  pull_request:
-  types:  
-    
