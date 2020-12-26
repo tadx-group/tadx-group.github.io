@@ -1,8 +1,6 @@
 name: Delete env for branch
 
-on: 
-  delete:
-    branches
+on: [delete]
     
 jobs:
   delete_env:
