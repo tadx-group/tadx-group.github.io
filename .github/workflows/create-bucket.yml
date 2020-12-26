@@ -1,9 +1,7 @@
 name: Create env for branch
 
-on:
-  pull_request:
-    types: 
-      - created
+on: [pull_request]
+    
 jobs:
   create_env:
     name: Create env in clever for the pull request
