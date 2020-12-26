@@ -9,4 +9,6 @@ jobs:
     steps:
       - name: Create bucket for branch
         run: |
-          echo "hi world !"
+            aws configure set aws_access_key_id ${{ secrets.AWS_ACCESS_KEY_ID }}
+            aws configure set aws_secret_access_key ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+            aws s3api create-bucket --bucket branch-name --acl public-read --endpoint-url ${{ secrets.CLEVER_END_POINT }} > /dev/null
