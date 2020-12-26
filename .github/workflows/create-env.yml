@@ -1,1 +1,15 @@
 name: Create env for branch
+
+on:
+  pull_request:
+    types: 
+      - created
+jobs:
+  create_env:
+    name: Create env in clever for the pull request
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create bucket for branch
+      - name: Hello World
+        run: |
+          echo "hi world !"
