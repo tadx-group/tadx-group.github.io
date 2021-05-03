@@ -1,4 +1,4 @@
-remote_theme: BlackrockDigital/startbootstrap-clean-blog-jekyll
+theme: jekyll-theme-clean-blog
 email:              tadx.group@gmail.com
 author:             F3Y & S6E
 #baseurl:            "/tadx" 
