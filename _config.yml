@@ -2,7 +2,7 @@ theme: jekyll-theme-clean-blog
 email:              tadx.group@gmail.com
 author:             F3Y & S6E
 #baseurl:            "/tadx" 
-#url:                "https://tadx.github.io"
+url:                "https://www.tadx.fr"
 repository: tadx-group/tadx.github.io
 
 # Social Profiles
