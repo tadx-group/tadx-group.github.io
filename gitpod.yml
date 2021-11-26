@@ -1,0 +1,18 @@
+
+tasks:
+  - name: Init Jekyll
+    init: bundle install
+  - name: Configuring Wakatime
+    command: |
+      echo "[settings]" >> /home/gitpod/.wakatime.cfg
+      echo "api_key = $WAKATIME_API_KEY" >> /home/gitpod/.wakatime.cfg
+      
+vscode:
+  extensions:
+    - streetsidesoftware.code-spell-checker-french
+    - coenraads.bracket-pair-colorizer-2
+    - streetsidesoftware.code-spell-checker
+    - github.vscode-pull-request-github
+    - eamodio.gitlens
+    - bierner.emojisense
+    - Wakatime
