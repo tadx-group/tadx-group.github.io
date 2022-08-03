@@ -1,0 +1,12 @@
+- date: 25/02/2022
+  post: 2022-02-14-25-eme-event
+  img: ./img/event25/jordane.jpg
+  resources:
+    - name: Les slides de Jordane
+      url: https://slides.com/ereold/elm-frontend-heureux/
+    - name: Le code de Jordane
+      url: https://github.com/jgrenat/elm-corgis
+    - name: La vidéo de la conférence
+      url: https://youtu.be/Q8viY48ORnw
+    - name: Slides de TADx
+      url: https://docs.google.com/presentation/d/e/2PACX-1vQpxst3XjfjGAvIdKwKWpgPC3fiwhBxAXBPA7vCq5hynf8NdGHG0VE7XuJMDLrdOg/pub?start=false&loop=false&delayms=3000
