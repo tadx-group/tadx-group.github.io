@@ -8,6 +8,7 @@ form: true
 
 <p>Ci-dessous les différentes ressources utilisées pendant les sessions de la TADx.</p>
 {% for resource in site.data.resources %}
+{% if resource.resources and resource.post%}
 <div class="container">
   <div class="row align-items-center">
       <div class="col-sm-auto">
@@ -24,7 +25,7 @@ form: true
   </div>
 </div>
 <hr>
-
+{% endif %}
 {% endfor %}
 
 <div class="container">

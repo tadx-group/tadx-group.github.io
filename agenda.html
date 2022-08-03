@@ -5,106 +5,28 @@ description:
 background: '/img/calendar.jpg'
 form: true
 ---
+
+{% for resource in site.data.resources %}
 <div class="container">
   <div class="row align-items-center">
     <div class="col-sm-auto">
-      20/09/2022
+      {{resource.date}}
     </div>
     <div class="col-sm-auto">
-      <p>CI/CD, le divorce serait-il prononcé ?</a></p>     
+      <p>
+        {% if resource.post %}
+        <a href="{{ resource.post }}">{{resource.title}}</a>
+        {% else %}
+        {{resource.title}}
+        {% endif %}
+      </p>     
     </div>
   </div>
 </div>
 <hr>
-<div class="container">
-  <div class="row align-items-center">
-    <div class="col-sm-auto">
-      28/06/2022
-    </div>
-    <div class="col-sm-auto">
-      <p><a href="{{ site.baseurl }}{% post_url 2022-06-28-29-eme-event %}">Comment maximiser l'effet "nouveau venu",<br> moteur du changement dans une équipe ?</a></p>     
-    </div>
-  </div>
-</div>
-<hr>
-<div class="container">
-  <div class="row align-items-center">
-    <div class="col-sm-auto">
-      31/05/2022
-    </div>
-    <div class="col-sm-auto">
-      <p><a href="{{ site.baseurl }}{% post_url 2022-05-10-28-eme-event %}">L'agilité au secours d'un neuro atypique :<br> mieux vivre grâce à cette méthode</a></p>     
-    </div>
-  </div>
-</div>
-<hr>
-<div class="container">
-  <div class="row align-items-center">
-    <div class="col-sm-auto">
-      03/05/2022
-    </div>
-    <div class="col-sm-auto">
-      <p><a href="{{ site.baseurl }}{% post_url 2022-04-06-27-eme-event %}">Tremplin Camping des speakers</a></p>
-    </div>
-  </div>
-</div>
-<hr>
-<div class="container">
-  <div class="row align-items-center">
-    <div class="col-sm-auto">
-      21/04/2022
-    </div>
-    <div class="col-sm-auto">
-      <p>BOF Devoxx 2022</p>     
-    </div>
-  </div>
-</div>
-<hr>
-<div class="container">
-  <div class="row align-items-center">
-    <div class="col-sm-auto">
-      22/03/2022
-    </div>
-    <div class="col-sm-auto">
-      <p><a href="{{ site.baseurl }}{% post_url 2022-03-11-26-eme-event %}">Agilité "at scale"</a></p>  
-    </div>
-  </div>
-</div>
-<hr>
-<div class="container">
-  <div class="row align-items-center">
-    <div class="col-sm-auto">
-      22/02/2022
-    </div>
-    <div class="col-sm-auto">
-      <p><a href="{{ site.baseurl }}{% post_url 2022-02-14-25-eme-event %}">Elm : un langage front-end qui vous veut du bien</a></p>     
-    </div>
-  </div>
-</div>
-<hr>
-<div class="container">
-  <div class="row align-items-center">
-    <div class="col-sm-auto">
-      25/01/2022
-    </div>
-    <div class="col-sm-auto">
-      <p><a href="{{ site.baseurl }}{% post_url 2022-01-09-24-eme-event %}">Knative, la solution Serverless native de Kubernetes <br>
-        mais pas que !</a></p>     
-    </div>
-  </div>
-</div>
-<hr>
-<div class="container">
-  <div class="row align-items-center">
-    <div class="col-sm-auto">
-      14/12/2021
-    </div>
-    <div class="col-sm-auto">
-      <p><a href="{{ site.baseurl }}{% post_url 2021-12-14-23-eme-event %}">OAUTH2 expliqué simplement (même si tu n’es pas dev) !</a></p>     
-    </div>
-  </div>
-</div>
-<hr>
+
+{% endfor %}
+
 <div class="container">
   <div class="row align-items-center">
     <div class="col-sm-auto">
