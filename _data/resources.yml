@@ -1,12 +1,81 @@
+# - date: # date de l'event, format JJ/MM/AAAA
+#   post: # nom du fichier dans _posts sans l'extension, par ex 2020-11-12-13-eme-event 
+#   img:  # chemin relatif vers une image 400x400 pixel, par ex ./img/event26/francois-desmier.jpg
+#   resources:
+#     - title: # texte de la ressource, par ex Les slides de François
+#       url:   # URL associée au texte, par ex https://blabla
+#     - title: # Deuxième ressource et ainsi de suite
+#       url: 
+
+- date: 28/06/2022 
+  post: 22022-06-28-29-eme-event
+  img:  /img/event29/Simon.jpg
+  resources:
+#    - title: Slides de Simon
+#      url:  
+    - title: La vidéo de la conférence
+      url: https://youtu.be/zm7Cj_l8jAQ
+    - title: Les slides TADx
+      url: https://docs.google.com/presentation/d/e/2PACX-1vSxviSFghyZ-EEKh1SEAcCNOPPG8febFJznLuvXIT1Y6ogUyyjz4hr3WcIu9pn_3g/pub?start=false&loop=false&delayms=3000
+
+- date: 30/05/2022 
+  post: 2022-05-10-28-eme-event
+  img:  /img/event28/benjamin.jpg
+  resources:
+    - title: Slides de Benjamin
+      url:   https://fr.slideshare.net/BenjaminDauvissat/lagilit-au-secours-dun-neuro-atypique
+    - title: La vidéo de la conférence
+      url: https://youtu.be/xXxFnaESKqI
+    - title: Les slides TADx
+      url: https://docs.google.com/presentation/d/e/2PACX-1vTcP7f8ax82wMOVilTF3z9Eo6p1DO78lvpQPw6oNH2qTKO2ctPX0_0wuDDTdRD0zg/pub?start=false&loop=false&delayms=3000
+
+- date: 11/03/2022
+  post: 2022-03-11-26-eme-event
+  img: ./img/event26/francois-desmier.jpg
+  resources:
+    - title: Les slides de François
+      url: https://maif-my.sharepoint.com/:p:/g/personal/francois_desmier_maif_fr/EbtZTTd81XFHuS-bTI_EZ7IBR7Ysq-_Pnrxswp5ro87ALA?rtime=1n4QAl022kg
+    - title: La vidéo de la conférence
+      url: https://youtu.be/Bn7UaaELOGg
+    - title: Slides de TADx
+      url: https://docs.google.com/presentation/d/e/2PACX-1vRq51A3WeeuYJGcdNJEX85R7ITxiS3CUPFynbkkhqCrPg9aiTDRzsY-JJ1--5aQDA/pub?start=false&loop=false&delayms=3000
+
 - date: 25/02/2022
   post: 2022-02-14-25-eme-event
   img: ./img/event25/jordane.jpg
   resources:
-    - name: Les slides de Jordane
+    - title: Les slides de Jordane
       url: https://slides.com/ereold/elm-frontend-heureux/
-    - name: Le code de Jordane
+    - title: Le code de Jordane
       url: https://github.com/jgrenat/elm-corgis
-    - name: La vidéo de la conférence
+    - title: La vidéo de la conférence
       url: https://youtu.be/Q8viY48ORnw
-    - name: Slides de TADx
+    - title: Slides de TADx
       url: https://docs.google.com/presentation/d/e/2PACX-1vQpxst3XjfjGAvIdKwKWpgPC3fiwhBxAXBPA7vCq5hynf8NdGHG0VE7XuJMDLrdOg/pub?start=false&loop=false&delayms=3000
+
+- date: 25/01/2022
+  post: 2022-01-09-24-eme-event
+  img: ./img/event24/seb.jpg
+  resources:
+    - title: Les slides de Sébastien
+      url: https://t.co/mKHAfGuw3z
+    - title: Le code source de Sébastien
+      url: https://t.co/2hTOyNbkHq
+    - title: La vidéo de la conférence
+      url: https://youtu.be/chh6-xAVrZs
+    - title: Slides de TADx
+      url: https://docs.google.com/presentation/d/e/2PACX-1vQz0QERQoQv7odHIodecgJijoYBx7bcDHqtNtXVMHduj1bFkBHHtOk5F9mEet82Kw/pub?start=false&loop=false&delayms=3000
+
+- date: 14/12/2021
+  post: 2021-12-14-23-eme-event
+  img: ./img/event23/julien.jpg
+  resources:
+    - title: Les slides de Julien
+      url: https://slides.com/julientopcu/concepts-avances-authn-authz
+    - title: La vidéo de la conférence
+      url: https://youtu.be/TsosQ1HnLd0
+    - title: La vidéo de la conférence
+      url: https://youtu.be/chh6-xAVrZs
+    - title: Slides de TADx
+      url: https://docs.google.com/presentation/d/e/2PACX-1vRR3mOwcSnkeOVAQLaxQUSRLxpzExtDDh0EAApexRtjSO4YkG8jNnZFRYUurUixdg/pub?start=false&loop=false&delayms=3000
+
