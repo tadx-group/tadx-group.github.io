@@ -7,72 +7,27 @@ form: true
 ---
 
 <p>Ci-dessous les différentes ressources utilisées pendant les sessions de la TADx.</p>
+{% for resource in site.data.resources %}
+{% if resource.resources and resource.post%}
 <div class="container">
   <div class="row align-items-center">
       <div class="col-sm-auto">
-          <a href="{{ site.baseurl }}{% post_url 2022-03-11-26-eme-event %}">11/03/2022</a>
+          <a href="{{ resource.post }}">{{resource.date}}</a>
       </div>
       <div class="col-sm-auto w-25">
-        <img src="./img/event26/francois-desmier.jpg" class="float-left img-thumbnail border-0">
+        <img src="{{resource.img}}" class="float-left img-thumbnail border-0">
       </div>
-      <div class="col-sm">          
-        <a href="https://maif-my.sharepoint.com/:p:/g/personal/francois_desmier_maif_fr/EbtZTTd81XFHuS-bTI_EZ7IBR7Ysq-_Pnrxswp5ro87ALA?rtime=1n4QAl022kg" target="_blank">Les slides de François</a><br>
-        <a href="https://youtu.be/Bn7UaaELOGg">La vidéo de la conférence</a><br>
-        <a href="https://docs.google.com/presentation/d/e/2PACX-1vRq51A3WeeuYJGcdNJEX85R7ITxiS3CUPFynbkkhqCrPg9aiTDRzsY-JJ1--5aQDA/pub?start=false&loop=false&delayms=3000" target="_blank">Slides de TADx</a>
+      <div class="col-sm">  
+        {% for res in resource.resources %}        
+        <a href="{{res.url}}" target="_blank">{{res.title}}</a><br>
+        {% endfor %}
       </div>
   </div>
 </div>
 <hr>
-<div class="container">
-  <div class="row align-items-center">
-      <div class="col-sm-auto">
-          <a href="{{ site.baseurl }}{% post_url 2022-02-14-25-eme-event %}">25/02/2022</a>
-      </div>
-      <div class="col-sm-auto w-25">
-        <img src="./img/event25/jordane.jpg" class="float-left img-thumbnail border-0">
-      </div>
-      <div class="col-sm">          
-        <a href="https://slides.com/ereold/elm-frontend-heureux/" target="_blank">Les slides de Jordane</a><br>
-        <a href="https://github.com/jgrenat/elm-corgis" target="_blank">Le code de Jordane</a><br>
-        <a href="https://youtu.be/Q8viY48ORnw">La vidéo de la conférence</a><br>
-        <a href="https://docs.google.com/presentation/d/e/2PACX-1vQpxst3XjfjGAvIdKwKWpgPC3fiwhBxAXBPA7vCq5hynf8NdGHG0VE7XuJMDLrdOg/pub?start=false&loop=false&delayms=3000" target="_blank">Slides de TADx</a>
-      </div>
-  </div>
-</div>
-<hr>
-<div class="container">
-  <div class="row align-items-center">
-      <div class="col-sm-auto">
-          <a href="{{ site.baseurl }}{% post_url 2022-01-09-24-eme-event %}">25/01/2022</a>
-      </div>
-      <div class="col-sm-auto w-25">
-        <img src="./img/event24/seb.jpg" class="float-left img-thumbnail border-0">
-      </div>
-      <div class="col-sm">          
-        <a href="https://t.co/mKHAfGuw3z" target="_blank">Les slides de Sébastien</a><br>
-        <a href="https://t.co/2hTOyNbkHq" target="_blank">Le code source de Sébastien</a><br>
-        <a href="https://youtu.be/chh6-xAVrZs">La vidéo de la conférence</a><br>
-        <a href="https://docs.google.com/presentation/d/e/2PACX-1vQz0QERQoQv7odHIodecgJijoYBx7bcDHqtNtXVMHduj1bFkBHHtOk5F9mEet82Kw/pub?start=false&loop=false&delayms=3000" target="_blank">Slides de TADx</a>
-      </div>
-  </div>
-</div>
-<hr>
-<div class="container">
-  <div class="row align-items-center">
-      <div class="col-sm-auto">
-          <a href="{{ site.baseurl }}{% post_url 2021-12-14-23-eme-event %}">14/12/2021</a>
-      </div>
-      <div class="col-sm-auto w-25">
-        <img src="./img/event23/julien.jpg" class="float-left img-thumbnail border-0">
-      </div>
-      <div class="col-sm">          
-        <a href="https://slides.com/julientopcu/concepts-avances-authn-authz" target="_blank">Les slides de Julien</a><br>
-        <a href="https://youtu.be/TsosQ1HnLd0">La vidéo de la conférence</a><br>
-        <a href="https://docs.google.com/presentation/d/e/2PACX-1vRR3mOwcSnkeOVAQLaxQUSRLxpzExtDDh0EAApexRtjSO4YkG8jNnZFRYUurUixdg/pub?start=false&loop=false&delayms=3000" target="_blank">Slides de TADx</a>
-      </div>
-  </div>
-</div>
-<hr>
+{% endif %}
+{% endfor %}
+
 <div class="container">
   <div class="row align-items-center">
       <div class="col-sm-auto">
