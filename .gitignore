@@ -3,3 +3,4 @@ _site/
 .vscode/
 vendor/
 .bundle/config
+.DS_Store
