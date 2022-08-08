@@ -25,8 +25,8 @@
   title: Comment maximiser l'effet "nouveau venu",<br> moteur du changement dans une équipe ?
   img:  /img/event29/Simon.jpg
   resources:
-#    - title: Slides de Simon
-#      url:  
+    - title: Slides de Simon
+      url:  https://drive.google.com/file/d/1BVeW0HpMRt44-IS0tG4hCW6qHHZcIEIg/view?usp=sharing
     - title: La vidéo de la conférence
       url: https://youtu.be/zm7Cj_l8jAQ
     - title: Les slides TADx
@@ -100,8 +100,6 @@
       url: https://slides.com/julientopcu/concepts-avances-authn-authz
     - title: La vidéo de la conférence
       url: https://youtu.be/TsosQ1HnLd0
-    - title: La vidéo de la conférence
-      url: https://youtu.be/chh6-xAVrZs
     - title: Slides de TADx
       url: https://docs.google.com/presentation/d/e/2PACX-1vRR3mOwcSnkeOVAQLaxQUSRLxpzExtDDh0EAApexRtjSO4YkG8jNnZFRYUurUixdg/pub?start=false&loop=false&delayms=3000
 
