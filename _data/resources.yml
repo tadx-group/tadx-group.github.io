@@ -8,17 +8,29 @@
 #     - title: # Deuxième ressource et ainsi de suite
 #       url: 
 
-- date: 20/09/2022 
-  post: 2022-09-20-30-eme-event
-  title: CI/CD, le divorce serait-il prononcé ?
+- date: 18/10/2022 
+  post: 2022-10-18-31-eme-event
+  title: Est-il possible de réduire l'aide infligée ?
   img:  
   resources:
-    - title: Slides de Nicolas et Yann
+    - title: Slides de Julie et Romeu
       url:  
     - title: La vidéo de la conférence
       url: 
     - title: Les slides TADx
       url: 
+
+- date: 20/09/2022 
+  post: 2022-09-20-30-eme-event
+  title: CI/CD, le divorce serait-il prononcé ?
+  img: /img/event30/NicolasYann.png
+  resources:
+    - title: Slides de Nicolas et Yann
+      url:  
+    - title: La vidéo de la conférence
+      url: https://youtu.be/k9G5R-WJdys
+    - title: Les slides TADx
+      url: https://docs.google.com/presentation/d/e/2PACX-1vSgW6qjuKKXZTrNAjtTJziTy8pOJx9sRZMOO-ao_h6X9jd6gKy3U8D17LFJnEFMng/pub?start=false&loop=false&delayms=3000
 
 - date: 28/06/2022 
   post: 2022-06-28-29-eme-event
