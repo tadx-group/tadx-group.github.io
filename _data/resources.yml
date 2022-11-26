@@ -7,6 +7,17 @@
 #       url:   # URL associée au texte, par ex https://blabla
 #     - title: # Deuxième ressource et ainsi de suite
 #       url: 
+- date: 28/11/2022 
+  post: 2022-11-28-32-eme-event
+  title: GitOps , une mise en situation un peu réaliste<br> sur Kubernetes avec Flux
+  img:  
+  resources:
+    - title: Slides de Laurent et Ludovic
+      url:  
+    - title: La vidéo de la conférence
+      url: 
+    - title: Les slides TADx
+      url: 
 
 - date: 18/10/2022 
   post: 2022-10-18-31-eme-event
