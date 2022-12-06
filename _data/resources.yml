@@ -7,29 +7,41 @@
 #       url:   # URL associée au texte, par ex https://blabla
 #     - title: # Deuxième ressource et ainsi de suite
 #       url: 
-- date: 28/11/2022 
-  post: 2022-11-28-32-eme-event
-  title: GitOps , une mise en situation un peu réaliste<br> sur Kubernetes avec Flux
+- date: 13/12/2022 
+  post: 2022-12-13-33-eme-event
+  title: Mais, à quoi ça sert un DevRel ?
   img:  
   resources:
-    - title: Slides de Laurent et Ludovic
+    - title: Slides d'Aurélie et Horacio
       url:  
     - title: La vidéo de la conférence
       url: 
     - title: Les slides TADx
       url: 
 
+- date: 28/11/2022 
+  post: 2022-11-28-32-eme-event
+  title: GitOps , une mise en situation un peu réaliste<br> sur Kubernetes avec Flux
+  img:  /img/event32/laurentLudo.png
+  resources:
+    - title: Slides de Laurent et Ludovic
+      url: https://gitops.training/
+    - title: La vidéo de la conférence
+      url: 
+    - title: Les slides TADx
+      url: https://docs.google.com/presentation/d/e/2PACX-1vRvuhqcfrRrgcqutc-XGWof8KuRiL60S9YiBgWVDf-QYURmYb8UATfhV8QEFfN6hg/pub?start=false
+
 - date: 18/10/2022 
   post: 2022-10-18-31-eme-event
   title: Est-il possible de réduire l'aide infligée ?
-  img:  
+  img: /img/event31/julieRomeu.png
   resources:
     - title: Slides de Julie et Romeu
       url:  
     - title: La vidéo de la conférence
-      url: 
+      url: https://youtu.be/4lyklaaUC3g
     - title: Les slides TADx
-      url: 
+      url: https://docs.google.com/presentation/d/e/2PACX-1vQm0t9qPJGCyGGGFUn0lIq-xr3LiDCxujiKj1ImuVww7c-bZ4RdPQUN9wTO68Bs6w/pub?start=false
 
 - date: 20/09/2022 
   post: 2022-09-20-30-eme-event
