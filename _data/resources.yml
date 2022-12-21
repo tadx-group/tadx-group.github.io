@@ -7,17 +7,77 @@
 #       url:   # URL associée au texte, par ex https://blabla
 #     - title: # Deuxième ressource et ainsi de suite
 #       url: 
+- date: 16/05/2023 
+#  post: 2023-05-16-38-eme-event
+  title: GitLab 💚 Kubernetes
+  img:  
+  resources:
+    - title: Slides de Jean-Philippe et Eric
+      url:  
+    - title: La vidéo de la conférence
+      url: 
+    - title: Les slides TADx
+      url:
+
+- date: 4/04/2023 
+#  post: 2023-04-4-37-eme-event
+  title: Intégrer les parties prenantes
+  img:  
+  resources:
+    - title: Slides de Simon
+      url:  
+    - title: La vidéo de la conférence
+      url: 
+    - title: Les slides TADx
+      url:
+
+- date: 23/03/2023 
+#  post: 2023-03-23-36-eme-event
+  title: "Une plateforme à concevoir,<br> deux architectes: trois possibilités ?"
+  img:  
+  resources:
+    - title: Slides d'Alexandre et Raphaël
+      url:  
+    - title: La vidéo de la conférence
+      url: 
+    - title: Les slides TADx
+      url:
+
+- date: 21/02/2023 
+#  post: 2023-02-21-35-eme-event
+  title:  Green agile - responsabilité et agilité numérique,<br> un grand système à transformer ensemble !
+  img:  
+  resources:
+    - title: Slides de Gwénaëlle
+      url:  
+    - title: La vidéo de la conférence
+      url: 
+    - title: Les slides TADx
+      url: 
+
+- date: 24/01/2023 
+#  post: 2023-01-24-34-eme-event
+  title: Cybersécurité et générateurs de nombres aléatoires
+  img:  
+  resources:
+    - title: Slides de Mathys
+      url:  
+    - title: La vidéo de la conférence
+      url: 
+    - title: Les slides TADx
+      url: 
+
 - date: 13/12/2022 
   post: 2022-12-13-33-eme-event
   title: Mais, à quoi ça sert un DevRel ?
   img:  
   resources:
     - title: Slides d'Aurélie et Horacio
-      url:  
+      url:  https://noti.st/aurelievache/71J7b9/mais-cest-quoi-le-devrel
     - title: La vidéo de la conférence
       url: 
     - title: Les slides TADx
-      url: 
+      url: https://docs.google.com/presentation/d/e/2PACX-1vT2_goTc04T0EATwuZaf2Zq0ooSjZMXFEZTeRigY5NNGKudna4Kl6_HFwCzI_GA3A/pub?start=false&loop=false&delayms=3000
 
 - date: 28/11/2022 
   post: 2022-11-28-32-eme-event
@@ -27,17 +87,17 @@
     - title: Slides de Laurent et Ludovic
       url: https://gitops.training/
     - title: La vidéo de la conférence
-      url: 
+      url: https://youtu.be/5kBskAroPoM
     - title: Les slides TADx
       url: https://docs.google.com/presentation/d/e/2PACX-1vRvuhqcfrRrgcqutc-XGWof8KuRiL60S9YiBgWVDf-QYURmYb8UATfhV8QEFfN6hg/pub?start=false
 
 - date: 18/10/2022 
-  post: 2022-10-18-31-eme-event
+  post: 2022-11-08-31-eme-event
   title: Est-il possible de réduire l'aide infligée ?
   img: /img/event31/julieRomeu.png
   resources:
-    - title: Slides de Julie et Romeu
-      url:  
+#    - title: Slides de Julie et Romeu
+#      url:  
     - title: La vidéo de la conférence
       url: https://youtu.be/4lyklaaUC3g
     - title: Les slides TADx
@@ -49,7 +109,7 @@
   img: /img/event30/NicolasYann.png
   resources:
     - title: Slides de Nicolas et Yann
-      url:  
+      url: https://arcanneero.github.io/cicd-divorce-slides/story/index-tadx.html#/ 
     - title: La vidéo de la conférence
       url: https://youtu.be/k9G5R-WJdys
     - title: Les slides TADx
