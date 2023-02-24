@@ -56,26 +56,26 @@
       url: 
 
 - date: 24/01/2023 
-#  post: 2023-01-24-34-eme-event
+  post: 2023-01-24-34-eme-event
   title: Cybersécurité et générateurs de nombres aléatoires
-  img:  
+  img: /img/event34/mathis-hammel.jpg
   resources:
-    - title: Slides de Mathys
-      url:  
+    - title: Slides de Mathis
+      url: https://docs.google.com/presentation/d/1dShq6zpu-_DZemcPEvdKJ-PXHm-2g5dzBtGmJrP-hN4/edit?usp=sharing
     - title: La vidéo de la conférence
-      url: 
+      url: https://www.youtube.com/watch?v=ow1Xd0H9rtU
     - title: Les slides TADx
       url: https://docs.google.com/presentation/d/e/2PACX-1vSLecM_ss4InMvwpv176SssweAQs1ipGvTSILHmOrAqwt5NvXnHbGG46tkphogD3A/pub?start=false&loop=false&delayms=3000
 
 - date: 13/12/2022 
   post: 2022-12-13-33-eme-event
   title: Mais, à quoi ça sert un DevRel ?
-  img:  
+  img: /img/event33/aurelie-horacio.png
   resources:
     - title: Slides d'Aurélie et Horacio
       url:  https://noti.st/aurelievache/71J7b9/mais-cest-quoi-le-devrel
     - title: La vidéo de la conférence
-      url: 
+      url: https://www.youtube.com/watch?v=CzCm5VIWpWI
     - title: Les slides TADx
       url: https://docs.google.com/presentation/d/e/2PACX-1vT2_goTc04T0EATwuZaf2Zq0ooSjZMXFEZTeRigY5NNGKudna4Kl6_HFwCzI_GA3A/pub?start=false&loop=false&delayms=3000
 
