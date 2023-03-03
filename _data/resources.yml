@@ -44,16 +44,16 @@
       url:
 
 - date: 21/02/2023 
-#  post: 2023-02-21-35-eme-event
+  post: 2023-02-21-35-eme-event
   title:  Green agile - responsabilité et agilité numérique,<br> un grand système à transformer ensemble !
-  img:  
+  img: /img/event35/gwenaelle-hirrien.jpg 
   resources:
     - title: Slides de Gwénaëlle
-      url:  
+      url: https://drive.google.com/file/d/1x5yrscB24RXwDJurMYnhGrkBRT5i9w53/view
     - title: La vidéo de la conférence
-      url: 
+      url: https://youtu.be/htU_sCL6mi8
     - title: Les slides TADx
-      url: 
+      url: https://docs.google.com/presentation/d/e/2PACX-1vRDNeyUpNBw8ruEV2izHgw--wU2F0LUfhz0h7dmnHH-IqO7_sKv_Jm2K1Mu-MXusA/pub
 
 - date: 24/01/2023 
   post: 2023-01-24-34-eme-event
