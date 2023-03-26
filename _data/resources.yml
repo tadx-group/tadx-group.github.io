@@ -8,7 +8,7 @@
 #     - title: # Deuxième ressource et ainsi de suite
 #       url: 
 - date: 16/05/2023 
-#  post: 2023-05-16-38-eme-event
+#  post: 2023-05-16-38-eme-event  
   title: GitLab 💚 Kubernetes
   img:  
   resources:
@@ -20,11 +20,11 @@
       url:
 
 - date: 4/04/2023 
-#  post: 2023-04-4-37-eme-event
-  title: Intégrer les parties prenantes
-  img:  
+  post: 2023-04-04-37-eme-event
+  title: Donnez des super pouvoirs à vos applications </br> Java (et Node.js) avec des plugins WebAssembly avec Extism.
+  #img: /img/event37/philippe.jpg 
   resources:
-    - title: Slides de Simon
+    - title: Slides de Philippe
       url:  
     - title: La vidéo de la conférence
       url: 
@@ -32,16 +32,16 @@
       url:
 
 - date: 21/03/2023 
-#  post: 2023-03-23-36-eme-event
+  post: 2023-03-21-36-eme-event
   title: "Une plateforme à concevoir,<br> deux architectes: trois possibilités ?"
-  img:  
+  #img: /img/event36/AlexRaph.png
   resources:
     - title: Slides d'Alexandre et Raphaël
-      url:  
+      url: https://speakerdeck.com/alexandretouret/tadx-23-une-plateforme-a-concevoir-deux-architectes-trois-possibilites  
     - title: La vidéo de la conférence
-      url: 
+      url: https://youtu.be/Mkol6zyJN8Y
     - title: Les slides TADx
-      url:
+      url: https://docs.google.com/presentation/d/e/2PACX-1vRApiBVM5OyN4p1Uo6h7aaosJE44V0BHFQanFreCuzU4Y6cQ4d4aGhDdPzNRFRXqA/pub?start=false
 
 - date: 21/02/2023 
   post: 2023-02-21-35-eme-event
