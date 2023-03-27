@@ -34,7 +34,7 @@
 - date: 21/03/2023 
   post: 2023-03-21-36-eme-event
   title: "Une plateforme à concevoir,<br> deux architectes: trois possibilités ?"
-  #img: /img/event36/AlexRaph.png
+  img: /img/event36/AlexRaph.png
   resources:
     - title: Slides d'Alexandre et Raphaël
       url: https://speakerdeck.com/alexandretouret/tadx-23-une-plateforme-a-concevoir-deux-architectes-trois-possibilites  
