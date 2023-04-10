@@ -17,19 +17,19 @@
     - title: La vidéo de la conférence
       url: 
     - title: Les slides TADx
-      url:
+      url: 
 
 - date: 4/04/2023 
   post: 2023-04-04-37-eme-event
   title: Donnez des super pouvoirs à vos applications </br> Java (et Node.js) avec des plugins WebAssembly avec Extism.
-  #img: /img/event37/philippe.jpg 
+  img: /img/event37/philippe.jpg 
   resources:
     - title: Slides de Philippe
       url:  
     - title: La vidéo de la conférence
-      url: 
+      url: https://youtu.be/N-6fAiSM-BI
     - title: Les slides TADx
-      url:
+      url: https://docs.google.com/presentation/d/e/2PACX-1vQEhEVtoB6ajtDDRCUPiX5JbnVJdQ93gC-FSxF_5P71XYBZLi4lkb1_PkgCnaRyEA/
 
 - date: 21/03/2023 
   post: 2023-03-21-36-eme-event
