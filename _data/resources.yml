@@ -7,17 +7,30 @@
 #       url:   # URL associée au texte, par ex https://blabla
 #     - title: # Deuxième ressource et ainsi de suite
 #       url: 
-- date: 16/05/2023 
-  post: 2023-05-16-38-eme-event  
-  title: GitLab 💚 Kubernetes
-  img:  
+- date: 6/06/2023 
+  post: 2023-06-06-39-eme-event  
+  title: Intégrer les parties prenantes
+  img: 
   resources:
-    - title: Slides de Jean-Philippe et Eric
-      url:  
+    - title: Slides de Simon
+      url: 
     - title: La vidéo de la conférence
       url: 
     - title: Les slides TADx
-      url:
+      url: 
+
+
+- date: 16/05/2023 
+  post: 2023-05-16-38-eme-event  
+  title: GitLab 💚 Kubernetes
+  img:  /img/event38/jeanphieric.png
+  resources:
+    - title: Slides de Jean-Philippe et Eric
+      url: https://docs.google.com/presentation/d/1PcfSA--1oBqLQj6K9BgEjFo0ZSD4kdTg3fSK2wkHO4M/edit?usp=sharing 
+    - title: La vidéo de la conférence
+      url: https://youtu.be/HpWgfOzCLok
+    - title: Les slides TADx
+      url: https://docs.google.com/presentation/d/e/2PACX-1vRoaz-afd3MAE1FH0C2VyEGxqmGct5gP0AN3atyJAeieye3riMFIP_dwwR8W9-mmg/pub?start=false&loop=false&delayms=3000
 
 - date: 4/04/2023 
   post: 2023-04-04-37-eme-event
