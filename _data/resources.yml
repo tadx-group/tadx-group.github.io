@@ -8,6 +8,18 @@
 #     - title: # Deuxième ressource et ainsi de suite
 #       url: 
 
+- date: 16/10/2023
+  post: 2023-10-16-41-eme-event
+  title: A la découverte d'accelerate.
+  img: 
+  resources:
+    - title: Slides de Geoffrey
+      url: 
+    - title: La vidéo de la conférence
+      url: 
+    - title: Les slides TADx
+      url: 
+
 - date: 18/09/2023
   post: 2023-09-18-40-eme-event
   title: Quelle est la place des introverti•e•s dans une équipe agile.
@@ -16,9 +28,9 @@
     - title: Slides d'Anaïs
       url: 
     - title: La vidéo de la conférence
-      url: 
+      url: https://youtu.be/D26FIreuIgQ
     - title: Les slides TADx
-      url: 
+      url: https://docs.google.com/presentation/d/e/2PACX-1vSdL7O0DFYYj-23zZMsL3-Mwy8efi2TFHwhNyjJSoLZYJSoh7nxDDzUwazB9G0Dcw
 
 - date: 6/06/2023 
   post: 2023-06-06-39-eme-event  
@@ -28,7 +40,7 @@
     - title: Slides de Simon
       url: https://drive.google.com/file/d/1BgsUqaR-uRj01eN9PsvuN0bGph5LMXPh/view?usp=sharing
     - title: La vidéo de la conférence
-      url: https://youtu.be/HpWgfOzCLok
+      url: https://youtu.be/F5Xdo1pSzcc
     - title: Les slides TADx
       url: https://docs.google.com/presentation/d/e/2PACX-1vRhRqCLvkUNe5xk23WM5S9MBLHP9C_QCMRF-BxJG6pY0PvnroI2HtjIWlZy3ne48g/pub?start=false&loop=false&delayms=3000
 
