@@ -8,17 +8,29 @@
 #     - title: # Deuxième ressource et ainsi de suite
 #       url: 
 
+- date: 13/11/2023
+  post: 2023-11-13-42-eme-event
+  title: Apprends à dompter la Data sans douter de toi !
+  img: /img/event42/johanna.jpg
+  resources:
+    - title: Slides de Johanna
+      url: 
+    - title: La vidéo de la conférence
+      url: 
+    - title: Les slides TADx
+      url: 
+
 - date: 16/10/2023
   post: 2023-10-16-41-eme-event
   title: A la découverte d'accelerate.
   img: /img/event41/geoffrey-graveaud.jpg
   resources:
     - title: Slides de Geoffrey
-      url: 
+      url: https://drive.google.com/file/d/1G4OA32q2uxzM7u_eWLLT_zW4rdRVDrT2/view?usp=sharing
     - title: La vidéo de la conférence
       url: 
     - title: Les slides TADx
-      url: 
+      url: https://docs.google.com/presentation/d/e/2PACX-1vQ7wUjG_XMm3JDs41sZaHqVYt3SXd2cbZ1vFYoa-cV4xnFfyO3cWCbpxQElM88gsw/pub
 
 - date: 18/09/2023
   post: 2023-09-18-40-eme-event
