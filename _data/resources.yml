@@ -11,7 +11,7 @@
 - date: 13/11/2023
   post: 2023-11-13-42-eme-event
   title: Apprends à dompter la Data sans douter de toi !
-  img: /img/event42/johanna.jpg
+  #img: /img/event42/johanna.jpg
   resources:
     - title: Slides de Johanna
       url: 
