@@ -8,17 +8,29 @@
 #     - title: # Deuxième ressource et ainsi de suite
 #       url: 
 
-- date: 13/11/2023
-  post: 2023-11-13-42-eme-event
-  title: Apprends à dompter la Data sans douter de toi !
-  #img: /img/event42/johanna.jpg
+- date: 12/12/2023
+  post: 2023-12-12-43-eme-event
+  title: Et si l'IA était la solution pour comprendre la langue des signes ?
+  #img: /img/event43/elea.jpg
   resources:
-    - title: Slides de Johanna
+    - title: Slides d'Eléa
       url: 
     - title: La vidéo de la conférence
       url: 
     - title: Les slides TADx
       url: 
+
+- date: 13/11/2023
+  post: 2023-11-13-42-eme-event
+  title: Apprends à dompter la Data sans douter de toi !
+  img: /img/event42/johanna.jpg
+  resources:
+    - title: Slides de Johanna
+      url: 
+    - title: La vidéo de la conférence
+      url: https://youtu.be/5f29X4RiWCI
+    - title: Les slides TADx
+      url: https://docs.google.com/presentation/d/e/2PACX-1vTipLqfI1jd1mXTjOUerYmevoqB3JX4yFJrf08jwgCHG8CBaIGsIKuaiS4acRp3iA/pub
 
 - date: 16/10/2023
   post: 2023-10-16-41-eme-event
@@ -28,7 +40,7 @@
     - title: Slides de Geoffrey
       url: https://drive.google.com/file/d/1G4OA32q2uxzM7u_eWLLT_zW4rdRVDrT2/view?usp=sharing
     - title: La vidéo de la conférence
-      url: 
+      url: https://youtu.be/jD8c_eboWSo
     - title: Les slides TADx
       url: https://docs.google.com/presentation/d/e/2PACX-1vQ7wUjG_XMm3JDs41sZaHqVYt3SXd2cbZ1vFYoa-cV4xnFfyO3cWCbpxQElM88gsw/pub
 
