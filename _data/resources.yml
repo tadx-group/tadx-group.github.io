@@ -1,7 +1,7 @@
 # - date: # date de l'event, format JJ/MM/AAAA
 #   post: # nom du fichier dans _posts sans l'extension, par ex 2020-11-12-13-eme-event 
 #   title: # titre de l'event, utiliser <br> pour passer à la ligne si trop long
-#   img:  # chemin relatif vers une image 400x400 pixel, par ex ./img/event26/francois-desmier.jpg
+#   img:  # chemin relatif vers une image 400x400 pixel, par ex ./img/event26/francois-desmier.jpg conditionne l'affichage dans RESSOURCES
 #   resources:
 #     - title: # texte de la ressource, par ex Les slides de François
 #       url:   # URL associée au texte, par ex https://blabla
@@ -10,8 +10,8 @@
 
 - date: 12/12/2023
   post: 2023-12-12-43-eme-event
-  title: Et si l'IA était la solution pour comprendre la langue des signes ?
-  #img: /img/event43/elea.jpg
+  title: Et si l'IA était la solution </br> pour comprendre la langue des signes ?
+  #img: /img/event43/elea.jpeg
   resources:
     - title: Slides d'Eléa
       url: 
@@ -26,7 +26,7 @@
   img: /img/event42/johanna.jpg
   resources:
     - title: Slides de Johanna
-      url: 
+      url: https://jvauchel.github.io/dompter-data-talk-2023/index-tadx.html
     - title: La vidéo de la conférence
       url: https://youtu.be/5f29X4RiWCI
     - title: Les slides TADx
