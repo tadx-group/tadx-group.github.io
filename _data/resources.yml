@@ -8,6 +8,18 @@
 #     - title: # Deuxième ressource et ainsi de suite
 #       url: 
 
+- date: 23/01/2024
+  post: 2024-01-23-44-eme-event
+  title: La recherche à l'ère de l'IA
+  #img: /img/event44/davidpilato.jpeg
+  resources:
+    - title: Slides de David
+      url: 
+    - title: La vidéo de la conférence
+      url: 
+    - title: Les slides TADx
+      url: 
+
 - date: 12/12/2023
   post: 2023-12-12-43-eme-event
   title: Et si l'IA était la solution </br> pour comprendre la langue des signes ?
