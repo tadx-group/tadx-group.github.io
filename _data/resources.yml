@@ -8,29 +8,41 @@
 #     - title: # Deuxième ressource et ainsi de suite
 #       url: 
 
-- date: 19/02/2024
-  post: 2024-02-19-44-eme-event
-  title: "L'AGC : retour sur l'ordinateur qui a </br> amené l'humanité sur la Lune"
-  #img: /img/event44/davidpilato.jpeg
+- date: 18/03/2024
+  post: 2024-03-18-45-eme-event
+  title: "Anatomie d’une image PNG"
+  #img: /img/event44/sonia.jpeg
   resources:
-    - title: Slides de Romain & Olivier
+    - title: Slides de Sonia
       url: 
     - title: La vidéo de la conférence
       url: 
     - title: Les slides TADx
       url: 
 
+- date: 19/02/2024
+  post: 2024-02-19-44-eme-event
+  title: "L'AGC : retour sur l'ordinateur qui a </br> amené l'humanité sur la Lune"
+  img: /img/event45/romain-olivier.png
+  resources:
+    - title: Slides de Romain & Olivier
+      url: https://t.co/Qs275R9ddM
+    - title: La vidéo de la conférence
+      url: 
+    - title: Les slides TADx
+      url: https://docs.google.com/presentation/d/e/2PACX-1vRnNvvWRi8MYmd15pdGher0d-dQSkgL7vB2zNtQLgfIfMy9TsHXRsAvdpiyv6vGVg/pub
+
 - date: 12/12/2023
   post: 2023-12-12-43-eme-event
   title: Et si l'IA était la solution </br> pour comprendre la langue des signes ?
-  #img: /img/event43/elea.jpeg
+  img: /img/event43/elea.jpeg
   resources:
     - title: Slides d'Eléa
       url: 
     - title: La vidéo de la conférence
-      url: 
+      url: https://studio.youtube.com/video/OqV1c5YSKdk/edit
     - title: Les slides TADx
-      url: 
+      url: https://docs.google.com/presentation/d/e/2PACX-1vS2cRZcqES8ttOrgkqKijy5fRNOhKwWOXrYK3yWdjF5dTMQIDf_2LIczo7op7dc3Q/pub
 
 - date: 13/11/2023
   post: 2023-11-13-42-eme-event
