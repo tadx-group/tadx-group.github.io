@@ -8,10 +8,23 @@
 #     - title: # Deuxième ressource et ainsi de suite
 #       url: 
 
+- date: 30/04/2024
+  post: 2024-04-30-46-eme-event
+  title: "🍳 Recette pour des environnements </br>aux petits oignons pour ton déploiement continu 🚀"
+  #img: /img/event44/matthieu-thomas.jpeg
+  resources:
+    - title: Slides de Matthieu
+      url: 
+    - title: La vidéo de la conférence
+      url: 
+    - title: Les slides TADx
+      url: 
+
+
 - date: 18/03/2024
   post: 2024-03-18-45-eme-event
   title: "Anatomie d’une image PNG"
-  #img: /img/event44/sonia.jpeg
+  img: /img/event44/sonia.jpeg
   resources:
     - title: Slides de Sonia
       url: 
@@ -38,7 +51,7 @@
   img: /img/event43/elea.jpeg
   resources:
     - title: Slides d'Eléa
-      url: 
+      url: https://drive.google.com/file/d/1GKVU4JWQkT7bPHCvjhku6HEDjlDIPIEw/view?usp=sharing
     - title: La vidéo de la conférence
       url: https://studio.youtube.com/video/OqV1c5YSKdk/edit
     - title: Les slides TADx
