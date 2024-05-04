@@ -8,26 +8,37 @@
 #     - title: # Deuxième ressource et ainsi de suite
 #       url: 
 
-- date: 30/04/2024
-  post: 2024-04-30-46-eme-event
-  title: "🍳 Recette pour des environnements </br>aux petits oignons pour ton déploiement continu 🚀"
-  #img: /img/event44/matthieu-thomas.jpeg
+- date: 21/05/2024
+  post: 2024-05-21-47-eme-event
+  title: "Elasticsearch Query Language: ES|QL"
+  #img: /img/event47/david.jpg
   resources:
-    - title: Slides de Matthieu
+    - title: Slides de David
       url: 
     - title: La vidéo de la conférence
       url: 
     - title: Les slides TADx
       url: 
 
+- date: 30/04/2024
+  post: 2024-04-30-46-eme-event
+  title: "🍳 Recette pour des environnements </br>aux petits oignons pour ton déploiement continu 🚀"
+  img: /img/event46/thomas-matthieu.png
+  resources:
+    - title: Slides de Matthieu et Thomas
+      url: https://tadx.grunty.uk/
+    - title: La vidéo de la conférence
+      url: https://youtu.be/pxZmW1HmOaw
+    - title: Les slides TADx
+      url: https://docs.google.com/presentation/d/e/2PACX-1vTlhfiftevmDDCxrgQt3oayLrn0hx_PMFrLYUfgzZuNZgCSg8v9rrdwb3nZpONcew/pub?start=false&loop=false&delayms=3000
 
 - date: 18/03/2024
   post: 2024-03-18-45-eme-event
   title: "Anatomie d’une image PNG"
-  img: /img/event44/sonia.jpeg
+  img: /img/event45/sonia.jpg
   resources:
     - title: Slides de Sonia
-      url: 
+      url: https://youtu.be/92qWa0B8PSg
     - title: La vidéo de la conférence
       url: 
     - title: Les slides TADx
@@ -36,7 +47,7 @@
 - date: 19/02/2024
   post: 2024-02-19-44-eme-event
   title: "L'AGC : retour sur l'ordinateur qui a </br> amené l'humanité sur la Lune"
-  img: /img/event45/romain-olivier.png
+  img: /img/event44/romain-olivier.png
   resources:
     - title: Slides de Romain & Olivier
       url: https://t.co/Qs275R9ddM
