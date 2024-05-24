@@ -8,17 +8,29 @@
 #     - title: # Deuxième ressource et ainsi de suite
 #       url: 
 
-- date: 21/05/2024
-  post: 2024-05-21-47-eme-event
-  title: "Elasticsearch Query Language: ES|QL"
-  #img: /img/event47/david.jpg
+- date: 25/06/2024
+  post: 2024-06-25-48-eme-event
+  title: "Mais qui a tué le chat de Lemni ?<br> Une enquête dans l’univers du DevOps"
+  #img: /img/event47/philippe.jpg
   resources:
-    - title: Slides de David
+    - title: Slides de Philippe
       url: 
     - title: La vidéo de la conférence
       url: 
     - title: Les slides TADx
       url: 
+
+- date: 21/05/2024
+  post: 2024-05-21-47-eme-event
+  title: "Elasticsearch Query Language: ES|QL"
+  img: /img/event47/david.jpg
+  resources:
+    - title: Slides de David
+      url: https://speaker.pilato.fr/snE5A3
+    - title: La vidéo de la conférence
+      url: https://t.co/fsuugXWG7d
+    - title: Les slides TADx
+      url: https://docs.google.com/presentation/d/e/2PACX-1vTB8-J32hpQMeoL2l6Zhw8b5Xr5C1tsTiIEzTDn35gnFOCkj4qG-mD9SWwrEwqLbw/pub?start=false&loop=false&delayms=3000
 
 - date: 30/04/2024
   post: 2024-04-30-46-eme-event
