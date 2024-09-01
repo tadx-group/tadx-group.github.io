@@ -8,10 +8,23 @@
 #     - title: # Deuxième ressource et ainsi de suite
 #       url: 
 
+- date: 17/09/2024
+  post: 2024-09-17-49-eme-event
+  title: "Comment nous avons transformé les Restos du Cœur </br>en Cloud Provider"
+  #img: /img/event47/julien.jpg
+  resources:
+    - title: Slides de Julien
+      url: 
+    - title: La vidéo de la conférence
+      url: 
+    - title: Les slides TADx
+      url: 
+
+
 - date: 25/06/2024
   post: 2024-06-25-48-eme-event
   title: "Mais qui a tué le chat de Lemni ?<br> Une enquête dans l’univers du DevOps"
-  #img: /img/event47/philippe.jpg
+  img: /img/event48/philippe.morisseau.jpg
   resources:
     - title: Slides de Philippe
       url: 
