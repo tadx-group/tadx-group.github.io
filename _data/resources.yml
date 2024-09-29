@@ -8,23 +8,35 @@
 #     - title: # Deuxième ressource et ainsi de suite
 #       url: 
 
-- date: 17/09/2024
-  post: 2024-09-17-49-eme-event
+- date: 15/10/2024
+  post: 2024-10-15-50-eme-event
   title: "Comment nous avons transformé les Restos du Cœur </br>en Cloud Provider"
-  #img: /img/event47/julien.jpg
+#  img: /img/event50/peggy.jpg
   resources:
-    - title: Slides de Julien
+    - title: Slides de Peggy
       url: 
     - title: La vidéo de la conférence
       url: 
     - title: Les slides TADx
       url: 
 
+- date: 17/09/2024
+  post: 2024-09-17-49-eme-event
+  title: "Comment nous avons transformé les Restos du Cœur </br>en Cloud Provider"
+  img: /img/event49/julien.jpg
+  resources:
+    - title: Slides de Julien
+      url: https://speakerdeck.com/ju_hnny5/tadx-2024-comment-nous-avons-transforme-les-restos-du-coeur-en-cloud-provider
+    - title: La vidéo de la conférence
+      url: https://youtu.be/56l5EnCiW1k
+    - title: Les slides TADx
+      url: https://docs.google.com/presentation/d/e/2PACX-1vSssnYrDLTgShGrNM10XkXh4fTUgJBAUbf6-2P76G1JmYWkuZXX2LKTJHSbb8JelQ/pub?start=false&loop=false&delayms=3000
+
 
 - date: 25/06/2024
   post: 2024-06-25-48-eme-event
   title: "Mais qui a tué le chat de Lemni ?<br> Une enquête dans l’univers du DevOps"
-  img: /img/event48/philippe.morisseau.jpg
+  #img: /img/event48/philippe.morisseau.jpg
   resources:
     - title: Slides de Philippe
       url: 
