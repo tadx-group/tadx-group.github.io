@@ -52,7 +52,7 @@ jobs:
 
       # Build du site Jekyll    
     - name: Build
-      uses: lemonarc/jekyll-action@1.0.0
+      uses: Aizistral-Studios/jekyll-action@2.0.0
 
       # Déploiement sur Netlify
     - name: Deploy to Netlify
