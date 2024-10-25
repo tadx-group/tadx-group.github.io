@@ -8,17 +8,30 @@
 #     - title: # Deuxième ressource et ainsi de suite
 #       url: 
 
-- date: 15/10/2024
-  post: 2024-10-15-50-eme-event
-  title: "Comment nous avons transformé les Restos du Cœur </br>en Cloud Provider"
-#  img: /img/event50/peggy.jpg
+- date: 12/11/2024
+  post: 2024-12-11-51-eme-event
+  title: "📝 ✅ La checklist ultime pour rendre vos </br>applications cloud native !"
+  #img: /img/event51/katia.jpg
   resources:
-    - title: Slides de Peggy
+    - title: Slides de Katia
       url: 
     - title: La vidéo de la conférence
       url: 
     - title: Les slides TADx
       url: 
+
+
+- date: 15/10/2024
+  post: 2024-10-15-50-eme-event
+  title: "Équilibre de vie et gestion du temps : </br>améliorez votre quotidien !"
+  img: /img/event50/peggy.jpg
+  resources:
+    - title: Slides de Peggy
+      url: https://drive.google.com/file/d/1SrLUGtOniNRJdf5SQm86rQKaBEwkow7g/view?usp=drive_link
+    - title: La vidéo de la conférence
+      url: https://youtu.be/Rlh6GOgnc3c
+    - title: Les slides TADx
+      url: https://docs.google.com/presentation/d/1HzfRd4bJhcnoSZ8M0--s4Q-adH-IDcJo/edit?usp=drive_link&ouid=116474222764621363953&rtpof=true&sd=true
 
 - date: 17/09/2024
   post: 2024-09-17-49-eme-event
