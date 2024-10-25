@@ -1,15 +1,21 @@
 // For format details, see https://aka.ms/devcontainer.json. For config options, see the
 // README at: https://github.com/devcontainers/templates/tree/main/src/ubuntu
 {
-	"name": "Ubuntu",
+	"name": "🧪 Jekyll on GH 🐙",
 	// Or use a Dockerfile or Docker Compose file. More info: https://containers.dev/guide/dockerfile
-	"image": "mcr.microsoft.com/devcontainers/base:jammy",
-	"features": {
+	//"image": "mcr.microsoft.com/devcontainers/base:jammy",
+	//"image": "mcr.microsoft.com/devcontainers/jekyll"
+	"build": {
+		// Path is relative to the devcontainer.json file.
+		"dockerfile": "Dockerfile",
+		"options": [ "--tag=jekyll-gh" ] 
+}
+	/*"features": {
 		"ghcr.io/devcontainers/features/ruby:1": {
 			"version": "3.2.3"
 		}
 	}
-
+*/
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},
 
