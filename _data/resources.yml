@@ -8,17 +8,29 @@
 #     - title: # Deuxième ressource et ainsi de suite
 #       url: 
 
-- date: 12/11/2024
-  post: 2024-12-11-51-eme-event
-  title: "📝 ✅ La checklist ultime pour rendre vos </br>applications cloud native !"
-  #img: /img/event51/katia.jpg
+- date: 9/12/2024
+  post: 2024-09-12-52-eme-event
+  title: "3 ans de migrations en environnement </br> \"cloud native\" quand on n'est ni une startup, </br>ni dans le CAC40"
+  #img: /img/event52/remi.jpg
   resources:
-    - title: Slides de Katia
+    - title: Slides de Rémi
       url: 
     - title: La vidéo de la conférence
       url: 
     - title: Les slides TADx
       url: 
+
+- date: 12/11/2024
+  post: 2024-12-11-51-eme-event
+  title: "📝 ✅ La checklist ultime pour rendre vos </br>applications cloud native !"
+  img: /img/event51/katia.jpg
+  resources:
+    - title: Slides de Katia
+      url: 
+    - title: La vidéo de la conférence
+      url: https://youtu.be/8jgb1NvnC_Y
+    - title: Les slides TADx
+      url: https://docs.google.com/presentation/d/e/2PACX-1vT6w0YHhmB6claLydhNjKsU1xsUMC82_qEAm0p9Ow-1czuEpR4rOF_zOuKtnho03w/pub
 
 
 - date: 15/10/2024
