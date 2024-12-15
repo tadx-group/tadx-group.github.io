@@ -8,12 +8,12 @@
 #     - title: # Deuxième ressource et ainsi de suite
 #       url: 
 
-- date: 9/12/2024
-  post: 2024-09-12-52-eme-event
-  title: "3 ans de migrations en environnement </br> \"cloud native\" quand on n'est ni une startup, </br>ni dans le CAC40"
-  #img: /img/event52/remi.jpg
+- date: 7/01/2025
+  post: 2025-01-07-53-eme-event
+  title: "Les feature flags : </br>le couteau suisse de votre flow de développement"
+  #img: /img/event53/benjamin.jpg
   resources:
-    - title: Slides de Rémi
+    - title: Slides de Benjamin
       url: 
     - title: La vidéo de la conférence
       url: 
