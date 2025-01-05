@@ -38,7 +38,7 @@ Essentiellement francophone, mais pas que, programmée sur trois jours (et maint
 Si Stéphane a traîné ses culottes courtes sur les bancs des premières éditions de Devoxx (celles avec une moquette très discutable…), Fanny a découvert ce formidable lieu d’ouverture d’esprit, de formation, d’apprentissage et de remise en question en 2017.
 
  
-![superbe affiche Devoxx France 2024](/img/RexTadxDevoxx/Devoxx.jpg){: style="width:90%;margin: 0 auto; display: block"}
+![superbe affiche Devoxx France 2024](/img/RexTadxDevoxx/Devoxx.jpg){: style="width:50%;margin: 0 auto; display: block"}
 
 Depuis, c’est un rendez-vous incontournable pour tous les deux : que ce soit en tant que participant, sponsor, speaker, membre du CFP ou bénévoles.
 
@@ -54,7 +54,7 @@ Le sujet choisi par toute l’équipe TADx au grand complet (oui, ok, on l’avo
 Et s’il y a bien une chose qui a mis tout le monde d’accord : l’engouement pour les meetups et les conférences s’atténue. Le nombre de participants post-Covid est stable mais a fortement diminué.  
 La demande est donc toujours là, mais moins grande qu’avant.
 
-![sujet du BOF TADx soumis dans le programme de Devoxx France 2024 et ça claque en vrai](/img/RexTadxDevoxx/planning.png){: style="width:75%;margin: 0 auto; display: block"}
+![sujet du BOF TADx soumis dans le programme de Devoxx France 2024 et ça claque en vrai](/img/RexTadxDevoxx/planning.png){: style="width:90%;margin: 0 auto; display: block"}
 
 Nous avons donc, au travers d’un jeu, proposé un tour d’horizon des problématiques auxquelles meetups et conférences doivent faire face, afin de nous partager des clés et des idées pour explorer d’autres manières de faire et apprendre des uns et des autres.
  
