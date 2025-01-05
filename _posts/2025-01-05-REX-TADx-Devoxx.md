@@ -27,7 +27,7 @@ Il se trouve qu’elle perdure : depuis 6 saisons, nous organisons donc mensuell
 La ligne directrice est large comme l’océan Atlantique et nous aimons « rapporter » des sujets ou des personnes que nous avons appréciés ou que nous aimerions découvrir pour les partager avec la sympathique communauté de Tours.
 
  
-![l'équipage TADx au grand complet à savoir Stéphane et Fanny et c'est tout](/img/RexTadxDevoxx/equipageTADx.png){: style="width:50%;margin: 0 auto; display: block"}
+![l'équipage TADx au grand complet à savoir Stéphane et Fanny et c'est tout](/img/RexTadxDevoxx/equipageTADx.png){: style="width:75%;margin: 0 auto; display: block"}
 
 TADx c’est donc une association accompagnée depuis ses premières heures par ceux qui y ont cru dès le départ : Apside, Acensi, Wild Code School puis par MAME, soutenue par des participantes et participants fidèles mais aussi à chaque session, de nouvelles têtes.
 
@@ -38,7 +38,7 @@ Essentiellement francophone, mais pas que, programmée sur trois jours (et maint
 Si Stéphane a traîné ses culottes courtes sur les bancs des premières éditions de Devoxx (celles avec une moquette très discutable…), Fanny a découvert ce formidable lieu d’ouverture d’esprit, de formation, d’apprentissage et de remise en question en 2017.
 
  
-![superbe affiche Devoxx France 2024](/img/RexTadxDevoxx/Devoxx.jpg){: style="width:50%;margin: 0 auto; display: block"}
+![superbe affiche Devoxx France 2024](/img/RexTadxDevoxx/Devoxx.jpg){: style="width:90%;margin: 0 auto; display: block"}
 
 Depuis, c’est un rendez-vous incontournable pour tous les deux : que ce soit en tant que participant, sponsor, speaker, membre du CFP ou bénévoles.
 
@@ -54,17 +54,17 @@ Le sujet choisi par toute l’équipe TADx au grand complet (oui, ok, on l’avo
 Et s’il y a bien une chose qui a mis tout le monde d’accord : l’engouement pour les meetups et les conférences s’atténue. Le nombre de participants post-Covid est stable mais a fortement diminué.  
 La demande est donc toujours là, mais moins grande qu’avant.
 
-![sujet du BOF TADx soumis dans le programme de Devoxx France 2024 et ça claque en vrai](/img/RexTadxDevoxx/planning.png){: style="width:50%;margin: 0 auto; display: block"}
+![sujet du BOF TADx soumis dans le programme de Devoxx France 2024 et ça claque en vrai](/img/RexTadxDevoxx/planning.png){: style="width:75%;margin: 0 auto; display: block"}
 
 Nous avons donc, au travers d’un jeu, proposé un tour d’horizon des problématiques auxquelles meetups et conférences doivent faire face, afin de nous partager des clés et des idées pour explorer d’autres manières de faire et apprendre des uns et des autres.
  
-![la règle du jeu est simple : les participants lèvent un carton jeune pour choisir la première réponse et un carton orange pour la deuxième](/img/RexTadxDevoxx/jeu.png){: style="width:50%;margin: 0 auto; display: block"}
+![la règle du jeu est simple : les participants lèvent un carton jeune pour choisir la première réponse et un carton orange pour la deuxième](/img/RexTadxDevoxx/jeu.png){: style="width:75%;margin: 0 auto; display: block"}
 
 Nous vous livrons ici quelques idées.
 
 ## Les participants
  
-![logos des meetups présents lors du BOF TADx à Devoxx France 2024](/img/RexTadxDevoxx/presents.png){: style="width:50%;margin: 0 auto; display: block"}
+![logos des meetups présents lors du BOF TADx à Devoxx France 2024](/img/RexTadxDevoxx/presents.png){: style="width:75%;margin: 0 auto; display: block"}
 
 Etaient représentés les meetups suivant :
 ⁃	DevOps Aix Marseille
@@ -77,14 +77,14 @@ Etaient représentés les meetups suivant :
 
 ## Les mots qui ressortent quand on parle de meetups et de conférences
 
-![nuage de mots construit le jour du BOF](/img/RexTadxDevoxx/nuagemots.png){: style="width:50%;margin: 0 auto; display: block"}
+![nuage de mots construit le jour du BOF](/img/RexTadxDevoxx/nuagemots.png){: style="width:75%;margin: 0 auto; display: block"}
 
 Rencontre - partage - échange - humains - diffusion - local - bière - gens - national 
 
 
 ## Pour les orgas, avez-vous rejoint ou créé un nouveau meetup ? 
 
-![question : avez-vous rejoint un meetup existant ou créé un nouveau meetup](/img/RexTadxDevoxx/creationmeetup.png){: style="width:50%;margin: 0 auto; display: block"}
+![question : avez-vous rejoint un meetup existant ou créé un nouveau meetup](/img/RexTadxDevoxx/creationmeetup.png){: style="width:75%;margin: 0 auto; display: block"}
 
 La plupart des organisateurs et organisatrices présents n’ont pas créé de meetup, ils/elles en ont rejoint un déjà existant.  
 Et pour cause : il y en a déjà beaucoup !
@@ -95,7 +95,7 @@ Mais attention : ne vous fâchez pas avec les meetups déjà en place, il ne fau
 
 ## Avez-vous dû créer une association ?
  
-![question : avez§vous dû créer une association](/img/RexTadxDevoxx/creationAsso.png){: style="width:50%;margin: 0 auto; display: block"}
+![question : avez§vous dû créer une association](/img/RexTadxDevoxx/creationAsso.png){: style="width:75%;margin: 0 auto; display: block"}
 
 Comme la question précédente, assez peu ont eu à créer une association from scratch. C’est ce qu’a dû faire TADx en 2019 (vous savez, quelques mois seulement avant le confinement…).
 
@@ -116,9 +116,9 @@ Bien entendu, il est tout à fait possible de ne pas avoir à faire toutes ces d
 
 Les sponsors, les cherchez-vous par soirée ou par année et que couvrent-ils ?
 
-![question : recherchez-vous des sponsors par soirée ou par année ?](/img/RexTadxDevoxx/sponsor.png){: style="width:50%;margin: 0 auto; display: block"}
+![question : recherchez-vous des sponsors par soirée ou par année ?](/img/RexTadxDevoxx/sponsor.png){: style="width:75%;margin: 0 auto; display: block"}
 
-![question annexe : est-ce que vous prenez en charge les frais de déplacement de vos intervenantes et intervenants](/img/RexTadxDevoxx/frais.png){: style="width:50%;margin: 0 auto; display: block"}
+![question annexe : est-ce que vous prenez en charge les frais de déplacement de vos intervenantes et intervenants](/img/RexTadxDevoxx/frais.png){: style="width:75%;margin: 0 auto; display: block"}
 
 Le sponsoring… c’est compliqué !  
 Et de plus en plus tendu avouons-le… Alors comment faites-vous pour rendre cette partie sereine ?
@@ -138,7 +138,7 @@ Lorsqu’un speaker se déplace sur ses propres frais ou ceux de son entreprise,
 
 ## Comment se font les inscriptions ?
 
-![question : les inscriptions se font§elles par Eventbrite ou par Meetup ?](/img/RexTadxDevoxx/inscriptions.png){: style="width:50%;margin: 0 auto; display: block"}
+![question : les inscriptions se font§elles par Eventbrite ou par Meetup ?](/img/RexTadxDevoxx/inscriptions.png){: style="width:75%;margin: 0 auto; display: block"}
 
 Si la plupart des inscriptions sont gratuites, leur gestion ne l’est pas forcément : selon si vous passez par Eventbrite ou Meetup par exemple.  
 Le premier est gratuit mais ne permet pas de gérer facilement une communauté, là où le second, payant, permet de le faire plus facilement.
@@ -155,7 +155,7 @@ Sur tout !!
 
 ## Comment vous organisez-vous ? 
  
-![question : comment vous organisez§vous : avec un Kanban ou à l'arrache ?](/img/RexTadxDevoxx/orga.png){: style="width:50%;margin: 0 auto; display: block"}
+![question : comment vous organisez§vous : avec un Kanban ou à l'arrache ?](/img/RexTadxDevoxx/orga.png){: style="width:75%;margin: 0 auto; display: block"}
 
 Joker !  
 Un meetup, ce n’est pas le travail, c’est du plus, souvent sur notre temps personnel. On va donc accepter de ne pas être aussi organisés que dans le milieu professionnel.  
@@ -164,9 +164,9 @@ N’empêche… déformation professionnelle ou pas, à TADx on n’oublie moins
 
 ## Que venez-vous chercher comme type de meetup ?  
  
-![question : préférez§vous les conférences ou les live-coding ?](/img/RexTadxDevoxx/typeconf.png){: style="width:50%;margin: 0 auto; display: block"}
+![question : préférez§vous les conférences ou les live-coding ?](/img/RexTadxDevoxx/typeconf.png){: style="width:75%;margin: 0 auto; display: block"}
 
-![question annexe : préférez-vous les sujets tech ou non tech ?](/img/RexTadxDevoxx/sujets.png){: style="width:50%;margin: 0 auto; display: block"}
+![question annexe : préférez-vous les sujets tech ou non tech ?](/img/RexTadxDevoxx/sujets.png){: style="width:75%;margin: 0 auto; display: block"}
 
 Alors là on vous a grillé les meetups tech ! Bien sûr des live-coding !!  
 Et nous les premiers.
@@ -179,7 +179,7 @@ Cela étant dit, la suite de la discussion a été très intéressante : la form
 
 ## Avez-vous déjà été speaker dans un meetup ? 
 
-![question : avez§vous déjà été speaker dans un meetup ?](/img/RexTadxDevoxx/speaker.png){: style="width:50%;margin: 0 auto; display: block"}
+![question : avez§vous déjà été speaker dans un meetup ?](/img/RexTadxDevoxx/speaker.png){: style="width:75%;margin: 0 auto; display: block"}
 
 Majoritairement oui !  
 Et c’est pratique : on en rapporte de bonnes idées (ou des mauvaises à ne pas reproduire). On a eu de très bonnes anecdotes le jour du BOF (n’insistez pas cette partie restera confidentielle, mais sachez que j’aime les M&M’s et les chouchous si vous souhaitez qu’on en discute).  
@@ -190,7 +190,7 @@ Certains et certaines prennent la parole dans leur propre meetup, d’autres non
 
 ## Invitez-vous plutôt des speakers confirmés ou débutants ? 
 
-![question : les speakers débutants ont§ils une place dans le programme de vos meetups ?](/img/RexTadxDevoxx/debutant.png){: style="width:50%;margin: 0 auto; display: block"}
+![question : les speakers débutants ont§ils une place dans le programme de vos meetups ?](/img/RexTadxDevoxx/debutant.png){: style="width:75%;margin: 0 auto; display: block"}
 
 On le sait, le format meetup est un format rassurant pour se lancer dans l’aventure des conférences. Mais sont-ils conviés partout ?  
 Majoritairement oui : une place leur est bien réservée. Soit en première partie d’une soirée à plusieurs conférences, soit pour la soirée entière si le format est plus long. Certains meetups proposent même un accompagnement des primo-speakers.
@@ -198,7 +198,7 @@ Majoritairement oui : une place leur est bien réservée. Soit en première part
 
 ## Quand se déroulent le meetup idéal ?
  
-![question : préférez-vous les meetups lorsqu'ils ont lieu le midi ou le soir ?](/img/RexTadxDevoxx/midisoir.png){: style="width:50%;margin: 0 auto; display: block"}
+![question : préférez-vous les meetups lorsqu'ils ont lieu le midi ou le soir ?](/img/RexTadxDevoxx/midisoir.png){: style="width:75%;margin: 0 auto; display: block"}
 
 « Ça dépend, ça dépasse ! »  
 Et oui, tout est possible : le meetup du midi en entreprise, meetup du soir en entreprise, meetup du soir hors entreprise…
@@ -213,7 +213,7 @@ Enfin, même si nous n’avons pas eu le temps de traiter tous les sujets qui no
 
 ## La pizza idéale post meetup est…
  
-![question : la meilleure pizza post meetup est à l'ananas ou au fromage ?](/img/RexTadxDevoxx/pizza.png){: style="width:50%;margin: 0 auto; display: block"}
+![question : la meilleure pizza post meetup est à l'ananas ou au fromage ?](/img/RexTadxDevoxx/pizza.png){: style="width:75%;margin: 0 auto; display: block"}
 
 Il semblerait qu’il y ait eu, parmi les participants, une moitié de puristes et une autre de provocateurs. Le débat n’est à ce jour toujours pas clos.
 
