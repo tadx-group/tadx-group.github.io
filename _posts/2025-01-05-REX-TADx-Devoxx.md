@@ -40,7 +40,7 @@ Si Stéphane a traîné ses culottes courtes sur les bancs des premières éditi
  
 ![superbe affiche Devoxx France 2024](/img/RexTadxDevoxx/Devoxx.jpg){: style="width:50%;margin: 0 auto; display: block"}
 
-Depuis, c’est un rendez-vous incontournable pour tous les deux : que ce soit en tant que participant, sponsor, speaker, membre du CFP ou bénévoles.
+Depuis, c’est un rendez-vous incontournable pour tous les deux : que ce soit en tant que participant, sponsor, speaker, membre du CFP ou red coat (gilet rouge).
 
 ## BOF
 
@@ -114,7 +114,7 @@ Créer une association est fastidieux mais avec un peu d’effort, on se rend co
 Bien entendu, il est tout à fait possible de ne pas avoir à faire toutes ces démarches, certains peuvent bénéficier par exemple d’un incubateur d’association qui se charge de tout cela.
 
 
-Les sponsors, les cherchez-vous par soirée ou par année et que couvrent-ils ?
+## Les sponsors, les cherchez-vous par soirée ou par année et que couvrent-ils ?
 
 ![question : recherchez-vous des sponsors par soirée ou par année ?](/img/RexTadxDevoxx/sponsor.png){: style="width:75%;margin: 0 auto; display: block"}
 
@@ -128,7 +128,7 @@ La majeure partie d’entre vous fonctionne à la soirée : sur la base de note 
 D’autres fonctionnent au sponsoring annuel : c’est le cas de TADx.  
 Annuellement, nous générons une convention pour chaque sponsor partant pour l’aventure qui budgétisent sur l’année un montant fixe et qui engagent les deux parties sur de la communication, du relais d’informations, de la participation aux évènements…
 
-Ce qu’il faut retenir, c’est que le sponsoring permet d’assurer le meetup dans de bonnes conditions. Il peut couvrir : 
+Ce qu’il faut retenir, c’est que le sponsoring permet d’assurer le meetup dans de bonnes conditions. Il peut couvrir :  
 ⁃	L’hébergement du meetup dans une salle  
 ⁃	Les consommations post-présentation  
 ⁃	La venue du ou des speakers dans votre région 
@@ -151,6 +151,7 @@ Sur tout !!
 - Le lieu, déjà, pour ne pas perdre ni le speaker, ni les participants (ne rigolez pas, nous avons vécu ce genre de mésaventure qui nous a fait presque rebrousser chemin…).  
 - Le thème & le speaker, car l’un comme l’autre peut faire se déplacer les personnes même en télétravail ce jour-là par temps de pluie ! Car oui, ne nous leurrons pas, c’est un peu plus difficile aujourd’hui de faire re-sortir les gens de chez eux le soir.  
 - Les conditions d’accueil : adapté PMR, mode atelier (donc manipulation ou mise en condition), durée… tous les détails pour assurer la venue des participants dans une « safe place ».
+
 
 
 ## Comment vous organisez-vous ? 
@@ -216,6 +217,8 @@ Enfin, même si nous n’avons pas eu le temps de traiter tous les sujets qui no
 ![question : la meilleure pizza post meetup est à l'ananas ou au fromage ?](/img/RexTadxDevoxx/pizza.png){: style="width:75%;margin: 0 auto; display: block"}
 
 Il semblerait qu’il y ait eu, parmi les participants, une moitié de puristes et une autre de provocateurs. Le débat n’est à ce jour toujours pas clos.
+
+
 
 Alors pour tous les autres sujets que nous n’avons pas eu le temps d’aborder, la durée idéale des meetups ? comment fidéliser les participants et participantes ? est-ce qu’il y a nécessité de vouloir à tout prix grandir ? comment se démarquer ? doit-on forcément avoir une image de marque ? comment convaincre les gens motivés de se lancer dans une aventure de meetups ? …  
 … nous vous proposons de nous retrouver de nouveau à Devoxx France 2025, soit pendant le meet & greet du jeudi soir, soit, avec de la chance (on croise les doigts fort fort) pendant un des BOF proposés cette année. 
