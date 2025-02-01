@@ -8,17 +8,29 @@
 #     - title: # Deuxième ressource et ainsi de suite
 #       url: 
 
-- date: 7/01/2025
-  post: 2025-01-07-53-eme-event
-  title: "Les feature flags : </br>le couteau suisse de votre flow de développement"
-  #img: /img/event53/benjamin.jpg
+- date: 18/02/2025
+  post: 2025-02-18-54-eme-event
+  title: "Software teaming : onboarding, remote, productivité, <br>Rex d’une développeuse "
+  #img: /img/event54/marjorie.jpg
   resources:
-    - title: Slides de Benjamin
+    - title: Slides de Marjorie
       url: 
     - title: La vidéo de la conférence
       url: 
     - title: Les slides TADx
       url: 
+
+- date: 7/01/2025
+  post: 2025-01-07-53-eme-event
+  title: "Les feature flags : </br>le couteau suisse de votre flow de développement"
+  img: /img/event53/benjamin.jpg
+  resources:
+    - title: Slides de Benjamin
+      url: https://drive.google.com/file/d/11FpwXwHjnP2yNMJw-_murzoPgrfPOA-e/
+    - title: La vidéo de la conférence
+      url: https://youtu.be/vkXaFgRZvQ8
+    - title: Les slides TADx
+      url: https://docs.google.com/presentation/d/1ATOATrfPIC6bCG7VBAZWmmNwmD-V9iqK/
 
 - date: 12/11/2024
   post: 2024-12-11-51-eme-event
