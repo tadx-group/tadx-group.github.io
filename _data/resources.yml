@@ -8,6 +8,19 @@
 #     - title: # Deuxième ressource et ainsi de suite
 #       url: 
 
+- date: 19/03/2025
+  post: 2025-03-19-55-eme-event
+  title: "Soirée inclusion dans le numérique </br>et l'intelligence artificielle"
+  #img: /img/event54/noemie.png
+  resources:
+    - title: Slides de Noémie
+      url: 
+    - title: La vidéo de la conférence
+      url: 
+    - title: Les slides TADx
+      url: 
+
+
 - date: 18/02/2025
   post: 2025-02-18-54-eme-event
   title: "Software teaming : onboarding, remote, productivité, <br>Rex d’une développeuse "
@@ -18,7 +31,7 @@
     - title: La vidéo de la conférence
       url: 
     - title: Les slides TADx
-      url: 
+      url: https://docs.google.com/presentation/d/e/2PACX-1vRDMku7Lp73rCjlgHuk2Wi1fiXu8-0BYUpsnUq2MnhflfBygzYDhZkijazbybwfBQ/
 
 - date: 7/01/2025
   post: 2025-01-07-53-eme-event
