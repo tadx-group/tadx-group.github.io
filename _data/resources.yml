@@ -8,17 +8,29 @@
 #     - title: # Deuxième ressource et ainsi de suite
 #       url: 
 
-- date: 08/04/2025
-  post: 2025-04-18-56-eme-event
-  title: "Taskfile, le Makefile sous stéroïde !"
-  #img: /img/event55/valentin.png
+- date: 14/05/2025
+  post: 2025-05-14-57-eme-event
+  title: "Spotify, an insider view"
+  #img: /img/event57/rachel-dubois.png
   resources:
-    - title: Slides de Valentin
+    - title: Slides de Rachel
       url: 
     - title: La vidéo de la conférence
       url: 
     - title: Les slides TADx
       url: 
+
+- date: 08/04/2025
+  post: 2025-04-18-56-eme-event
+  title: "Taskfile, le Makefile sous stéroïde !"
+  img: /img/event56/valentin.jpg
+  resources:
+    - title: Slides de Valentin
+      url: https://youtu.be/nO_IjgJgqjo
+    - title: La vidéo de la conférence
+      url: 
+    - title: Les slides TADx
+      url: https://docs.google.com/presentation/d/e/2PACX-1vQfZ4Px76jkaLowbcDjNiy_DdP1alem_D_jiclw3htP8RDcFwcIxifzwuNxPsuX4g/
 
 - date: 19/03/2025
   post: 2025-03-19-55-eme-event
