@@ -8,17 +8,30 @@
 #     - title: # Deuxième ressource et ainsi de suite
 #       url: 
 
-- date: 11/06/2025
-  post: 2025-06-10-58-eme-event
-  title: "3 ans de migrations en environnement \"cloud native\" <br/>quand on n'est ni une startup, ni dans le CAC4"
-  #img: /img/event58/remi.jpg
+- date: 16/09/2025
+  post: 2025-09-16-59-eme-event
+  title: "AI Agents — the new frontier for LLMs"
+  #img: /img/event59/guillaume.jpg
   resources:
-    - title: Slides de Rémi
+    - title: Slides de Guillaume
       url: 
     - title: La vidéo de la conférence
       url: 
     - title: Les slides TADx
       url: 
+
+
+- date: 11/06/2025
+  post: 2025-06-10-58-eme-event
+  title: "3 ans de migrations en environnement \"cloud native\" <br/>quand on n'est ni une startup, ni dans le CAC4"
+  img: /img/event58/remi.jpg
+  resources:
+    - title: Slides de Rémi
+      url: https://presentations.verchere.fr/Migration_Cloud_ETI_Tadx_2025/
+    - title: La vidéo de la conférence
+      url: 
+    - title: Les slides TADx
+      url: https://docs.google.com/presentation/d/e/2PACX-1vTv3UJvShY-dhMf8hzwoxjb5rcC91Ah5AS2hxDoY3uXVL2BQZs2yFmTNyf0MLWlyg/pub
 
 - date: 14/05/2025
   post: 2025-05-14-57-eme-event
