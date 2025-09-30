@@ -8,18 +8,30 @@
 #     - title: # Deuxième ressource et ainsi de suite
 #       url: 
 
-- date: 16/09/2025
-  post: 2025-09-16-59-eme-event
-  title: "AI Agents — the new frontier for LLMs"
-  #img: /img/event59/guillaume.jpg
+- date: 28/10/2025
+  post: 2025-10-28-60-eme-event
+  title: "Kubernetes : 5 façons créatives de flinguer sa prod"
+  #img: /img/event60/denis.jpg
   resources:
-    - title: Slides de Guillaume
+    - title: Slides de Denis
       url: 
     - title: La vidéo de la conférence
       url: 
     - title: Les slides TADx
       url: 
 
+
+- date: 16/09/2025
+  post: 2025-09-16-59-eme-event
+  title: "AI Agents — the new frontier for LLMs"
+  img: /img/event59/guillaume.jpg
+  resources:
+    - title: Slides de Guillaume
+      url: https://speakerdeck.com/glaforge/ai-agents-the-new-frontier-for-llms-5d593e22-b125-4f36-962c-f852dab99aee
+    - title: La vidéo de la conférence
+      url: https://youtu.be/0nqxN3fyg1E
+    - title: Les slides TADx
+      url: https://docs.google.com/presentation/d/e/2PACX-1vRLT2PMZSDt8Kjg77N6V2G6-mOthGBZeWWVHbwvRzJeq3xGR73UQWGqb15wiU8C8w/pub?start=false
 
 - date: 11/06/2025
   post: 2025-06-10-58-eme-event
