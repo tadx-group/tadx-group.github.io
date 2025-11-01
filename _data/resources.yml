@@ -8,18 +8,29 @@
 #     - title: # Deuxième ressource et ainsi de suite
 #       url: 
 
-- date: 28/10/2025
-  post: 2025-10-28-60-eme-event
-  title: "Kubernetes : 5 façons créatives de flinguer sa prod"
-  #img: /img/event60/denis.jpg
+- date: 25/11/2025
+  post: 2025-11-25-61-eme-event
+  title: "Apprendre à coder ou comment s’amuser de 7 à 77 ans"
+  #img: /img/event61/thierry.jpg
   resources:
-    - title: Slides de Denis
+    - title: Slides de Thierry
       url: 
     - title: La vidéo de la conférence
       url: 
     - title: Les slides TADx
       url: 
 
+- date: 28/10/2025
+  post: 2025-10-28-60-eme-event
+  title: "Kubernetes : 5 façons créatives de flinguer sa prod"
+  img: /img/event60/denis.jpg
+  resources:
+    - title: Slides de Denis
+      url: https://blog.zwindler.fr/talks/2025-kubernetes-5-facon-de-flinguer-prod/index.html
+    - title: La vidéo de la conférence
+      url: https://youtu.be/S0CsudsUueU
+    - title: Les slides TADx
+      url: https://docs.google.com/presentation/d/e/2PACX-1vQ_zsA_CEIiePF1_PyjgGeib0Vkd9F74Qff6W3e1vEtNlY_MTXczk_UIVXwhwFLqA/pub
 
 - date: 16/09/2025
   post: 2025-09-16-59-eme-event
