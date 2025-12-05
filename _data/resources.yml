@@ -8,17 +8,29 @@
 #     - title: # Deuxième ressource et ainsi de suite
 #       url: 
 
-- date: 25/11/2025
-  post: 2025-11-25-61-eme-event
-  title: "Apprendre à coder ou comment s’amuser de 7 à 77 ans"
-  #img: /img/event61/thierry.jpg
+- date: 16/12/2025
+  post: 2025-12-16-62-eme-event
+  title: "Les petits secrets de Compose & Dragons"
+  #img: /img/event62/guillaume-philippe.png
   resources:
-    - title: Slides de Thierry
+    - title: Slides de Guillaume & Philippe
       url: 
     - title: La vidéo de la conférence
       url: 
     - title: Les slides TADx
       url: 
+
+- date: 25/11/2025
+  post: 2025-11-25-61-eme-event
+  title: "Apprendre à coder ou comment s’amuser de 7 à 77 ans"
+  img: /img/event61/thierry.jpg
+  resources:
+    - title: Slides de Thierry
+      url: https://docs.google.com/presentation/d/1g3JG28WTuRzQOu24793B7MUzEa8xMw1_v06ryuVgDuo/edit?slide=id.g2a4e1e59b1c_1_422#slide=id.g2a4e1e59b1c_1_422
+    - title: La vidéo de la conférence
+      url: https://youtu.be/rcx350doz2g
+    - title: Les slides TADx
+      url: https://docs.google.com/presentation/d/e/2PACX-1vSUVIDSFvtcd9zsxyiPMI3zaS9BvqYcP9W3c2_aKWNEMl9xWBzeph9-rMLqtcUpTw/pub
 
 - date: 28/10/2025
   post: 2025-10-28-60-eme-event
