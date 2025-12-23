@@ -8,17 +8,29 @@
 #     - title: # Deuxième ressource et ainsi de suite
 #       url: 
 
-- date: 16/12/2025
-  post: 2025-12-16-62-eme-event
-  title: "Les petits secrets de Compose & Dragons"
-  #img: /img/event62/guillaume-philippe.png
+- date: 06/01/2026
+  post: 2026-01-06-63-eme-event
+  title: "Gitflow c'est bien, Gitbutler c'est mieux !"
+  #img: /img/event63/lilian-yannthomas.png
   resources:
-    - title: Slides de Guillaume & Philippe
+    - title: Slides de Lilian & Yann-Thomas
       url: 
     - title: La vidéo de la conférence
       url: 
     - title: Les slides TADx
       url: 
+
+- date: 16/12/2025
+  post: 2025-12-16-62-eme-event
+  title: "Les petits secrets de Compose & Dragons"
+  img: /img/event62/guillaume-philippe.png
+  resources:
+    - title: Slides et code source de Guillaume & Philippe
+      url: https://github.com/Compose-and-Dragons/dungeon.v3
+    - title: La vidéo de la conférence
+      url: https://youtu.be/gAxO98-FEd4
+    - title: Les slides TADx
+      url: https://docs.google.com/presentation/d/e/2PACX-1vRgvcItyzslsynUGXPWkqY8DTlGRJl-Yz_Gm2VE4Bi7-FUV46eFzJ1OCF8fJFjbsQ/pub
 
 - date: 25/11/2025
   post: 2025-11-25-61-eme-event
