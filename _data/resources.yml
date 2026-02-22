@@ -10,7 +10,7 @@
 - date: 31/03/2026
   post: 2026-03-31-65-eme-event
   title: "Du silence à la sécurité psychologique"
-  img: /img/event65/benoit.jpg
+  #img: /img/event65/benoit.jpg
   resources:
     - title: Slides de Benoît
       url: 
@@ -25,7 +25,7 @@
   img: /img/event64/dorra.jpg
   resources:
     - title: Slides de Dorra
-      url: 
+      url: https://fr.slideshare.net/slideshow/mesurer-l-invisible-comment-prouver-la-valeur-de-vos-pratiques-craft/286108039
     - title: La vidéo de la conférence
       url: https://youtu.be/GHibRBsDlr0
     - title: Les slides TADx
