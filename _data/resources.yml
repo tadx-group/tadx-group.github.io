@@ -7,18 +7,29 @@
 #       url:   # URL associée au texte, par ex https://blabla
 #     - title: # Deuxième ressource et ainsi de suite
 #       url: 
-- date: 03/02/2026
-  post: 2026-02-03-64-eme-event
-  title: "Mesurer l'Invisible : </br>Comment prouver la valeur de vos pratiques Craft"
-  #img: /img/event64/dorra.jpg
+- date: 31/03/2026
+  post: 2026-03-31-65-eme-event
+  title: "Du silence à la sécurité psychologique"
+  #img: /img/event65/benoit.jpg
   resources:
-    - title: Slides de Dorra
+    - title: Slides de Benoît
       url: 
     - title: La vidéo de la conférence
       url: 
     - title: Les slides TADx
       url: 
 
+- date: 03/02/2026
+  post: 2026-02-03-64-eme-event
+  title: "Mesurer l'Invisible : </br>Comment prouver la valeur de vos pratiques Craft"
+  img: /img/event64/dorra.jpg
+  resources:
+    - title: Slides de Dorra
+      url: https://fr.slideshare.net/slideshow/mesurer-l-invisible-comment-prouver-la-valeur-de-vos-pratiques-craft/286108039
+    - title: La vidéo de la conférence
+      url: https://youtu.be/GHibRBsDlr0
+    - title: Les slides TADx
+      url: https://docs.google.com/presentation/d/e/2PACX-1vQZJFi4kxZ1rvefYKnPY13Ym_rLEjgRGVgGxdEILFUtVp5_d1kfcIWslwdoUGt6eA/pub?start=false&loop=false&delayms=3000
 
 - date: 06/01/2026
   post: 2026-01-06-63-eme-event
