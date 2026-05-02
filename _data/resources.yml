@@ -7,17 +7,28 @@
 #       url:   # URL associée au texte, par ex https://blabla
 #     - title: # Deuxième ressource et ainsi de suite
 #       url: 
-- date: 28/04/2026
-  post: 2026-04-28-66-eme-event
-  title: "Architectures multi-agents: plus d'agents, plus de chaos!"
-  #img: /img/event66/marie-alice.jpg
+- date: 26/05/2026
+  post: 2026-05-26-67-eme-event
+  title: "🏴‍☠️ Fun with (feature) flags"
+#  img: /img/event66/marie-alice.jpg
   resources:
-    - title: Slides de Benoît
+    - title: Slides de Léonore et Matthieu
       url: 
     - title: La vidéo de la conférence
       url: 
     - title: Les slides TADx
       url: 
+- date: 28/04/2026
+  post: 2026-04-28-66-eme-event
+  title: "Architectures multi-agents: plus d'agents, plus de chaos!"
+  img: /img/event66/marie-alice.jpg
+  resources:
+    - title: Slides de Marie-Alice
+      url: 
+    - title: La vidéo de la conférence
+      url: https://youtu.be/5UxJrKHAFBc
+    - title: Les slides TADx
+      url: https://docs.google.com/presentation/d/e/2PACX-1vThRK_Fl4RJ-shgfMTAzSDPAlNLuOTpc4BcLbLw9m8cas_CB3Fd4dy0snjvO9tpDA/pub
 
 - date: 31/03/2026
   post: 2026-03-31-65-eme-event
