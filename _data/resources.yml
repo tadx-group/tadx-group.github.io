@@ -7,17 +7,40 @@
 #       url:   # URL associée au texte, par ex https://blabla
 #     - title: # Deuxième ressource et ainsi de suite
 #       url: 
-- date: 31/03/2026
-  post: 2026-03-31-65-eme-event
-  title: "Du silence à la sécurité psychologique"
-  #img: /img/event65/benoit.jpg
+- date: 26/05/2026
+  post: 2026-05-26-67-eme-event
+  title: "🏴‍☠️ Fun with (feature) flags"
+#  img: /img/event66/marie-alice.jpg
   resources:
-    - title: Slides de Benoît
+    - title: Slides de Léonore et Matthieu
       url: 
     - title: La vidéo de la conférence
       url: 
     - title: Les slides TADx
       url: 
+- date: 28/04/2026
+  post: 2026-04-28-66-eme-event
+  title: "Architectures multi-agents: plus d'agents, plus de chaos!"
+  img: /img/event66/marie-alice.jpg
+  resources:
+    - title: Slides de Marie-Alice
+      url: https://www.slideshare.net/slideshow/architectures-multi-agents-plus-d-agents-plus-de-chaos/287332985
+    - title: La vidéo de la conférence
+      url: https://youtu.be/5UxJrKHAFBc
+    - title: Les slides TADx
+      url: https://docs.google.com/presentation/d/e/2PACX-1vThRK_Fl4RJ-shgfMTAzSDPAlNLuOTpc4BcLbLw9m8cas_CB3Fd4dy0snjvO9tpDA/pub
+
+- date: 31/03/2026
+  post: 2026-03-31-65-eme-event
+  title: "Du silence à la sécurité psychologique"
+  img: /img/event65/benoit.jpg
+  resources:
+    - title: Slides de Benoît
+      url: https://drive.google.com/file/d/1BEEUpMaOqYDepq-oSb18h8UFblejyEZj/view
+    - title: La vidéo de la conférence
+      url: https://youtu.be/zaaKSFknIfY
+    - title: Les slides TADx
+      url: https://docs.google.com/presentation/d/e/2PACX-1vTaHKUbYRB-A--4tGWCRMqU2Uy0L7CyPPl69kSGsUhKBQm-9wfxeTcsH2euOq6xTA/pub
 
 - date: 03/02/2026
   post: 2026-02-03-64-eme-event
