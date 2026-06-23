@@ -7,6 +7,17 @@
 #       url:   # URL associée au texte, par ex https://blabla
 #     - title: # Deuxième ressource et ainsi de suite
 #       url: 
+- date: 30/06/2026
+  post: 2026-06-30-68-eme-event
+  title: "Comme Alice, osez suivre le lapin blanc et plongez dans la JVM pour comprendre son fonctionnement"
+#  img: /img/event68/antoine-dessaigne.jpg
+  resources:
+    - title: Slides d'Antoine DESSAIGNE
+      url: 
+    - title: La vidéo de la conférence
+      url: 
+    - title: Les slides TADx
+      url: 
 - date: 26/05/2026
   post: 2026-05-26-67-eme-event
   title: "🏴‍☠️ Fun with (feature) flags"
