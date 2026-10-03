@@ -8,25 +8,36 @@
 #     - title: # Deuxième ressource et ainsi de suite
 #       url: 
 - date: 30/06/2026
-  post: 2026-06-30-68-eme-event
-  title: "Comme Alice, osez suivre le lapin blanc et plongez </br> dans la JVM pour comprendre son fonctionnement"
-#  img: /img/event68/antoine-dessaigne.jpg
+  post: 2026-06-30-69-eme-event
+  title: "Que la Force (du Changement) soit avec toi !"
+  #img: /img/event69/stephane-trebel.jpg
   resources:
-    - title: Slides d'Antoine DESSAIGNE
+    - title: Slides de Stéphane
       url: 
     - title: La vidéo de la conférence
       url: 
     - title: Les slides TADx
       url: 
+- date: 30/06/2026
+  post: 2026-06-30-68-eme-event
+  title: "Comme Alice, osez suivre le lapin blanc et plongez </br> dans la JVM pour comprendre son fonctionnement"
+  img: /img/event68/antoine.jpg
+  resources:
+    - title: Slides d'Antoine DESSAIGNE
+      url: https://adessaigne.github.io/talks/alice-jvm/
+    - title: La vidéo de la conférence
+      url: https://youtu.be/7P_3FI2C8u8
+    - title: Les slides TADx
+      url: 
 - date: 26/05/2026
   post: 2026-05-26-67-eme-event
   title: "🏴‍☠️ Fun with (feature) flags"
-#  img: /img/event66/marie-alice.jpg
+  img: /img/event66/leonore-matthieu.jpg
   resources:
     - title: Slides de Léonore et Matthieu
       url: 
     - title: La vidéo de la conférence
-      url: 
+      url: https://youtu.be/aoZrbOUYVYA
     - title: Les slides TADx
       url: 
 - date: 28/04/2026
