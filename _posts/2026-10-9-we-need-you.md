@@ -18,14 +18,14 @@ Mais alors, ce sont quoi les problèmes, et est-ce que l'on peut y faire quelque
 Oui, on aimerait vous dire que l'on ne va pas parler d'argent, mais, spoiler, on ne va pas bien loin sans argent 🤑.
 Reposons le contexte : comment fonctionne TADx et à quoi sert le sponsoring.
 Notre ligne directrice est de faire en sorte que la personne intervenant à TADx ne doive pas payer pour venir parler.
-De ce fait, la majeure partie de notre sponsoring va dans la prise en charge du voyage et du logement de nos intervenantes et intervenants s'ils ne sont pas défrayés par leurs sociétés.
+De ce fait, la majeure partie de notre sponsoring va dans la prise en charge du voyage et du logement de nos intervenantes et intervenants s'ils ne sont pas défrayé•es par leurs sociétés.
 Cela nous permet, aussi, de faire venir des personnes de la France entière 🤗.
 
 Le reste du sponsoring sert à assurer une petite collation de fin de meetup autour de pizzas 🍕 et boissons sans alcool 🧋.
 
 Et ... c'est tout !
 
-Mais déjà avec ces éléments, et si on prend le scénario le plus défavorable, c'est-à-dire que l'on doive subventionner toutes les personnes venant, le budget de fonctionnement pour un an de meetup est aux alentours de 3 500 €.
+Mais déjà avec ces éléments, et si on prend le scénario le plus défavorable, c'est-à-dire que l'on doive subventionner toutes les personnes venant, le budget de fonctionnement pour un an de meetups est aux alentours de 3 500 €.
 
 Et là, pas de magie : sans sponsoring externe, on ne peut pas supporter cette charge financière 😭.
 Nous avons la chance d'avoir de fidèles sponsors depuis 7 ans maintenant et de nouveaux qui viennent chaque année, comblant le départ de certains sponsors 🤗.
@@ -36,7 +36,7 @@ La faute à quoi ? 🤔
 
 Plusieurs facteurs.
 
-Le premier est que les sociétés défraient de moins en moins leurs salariés qui interviennent en conférences et meetups.
+Le premier est que les sociétés défraient de moins en moins leurs salarié•es qui interviennent en conférences et meetups.
 Comme on vous l'a dit, pour nous ce n'est pas envisageable qu'une personne doive dépenser de l'argent pour venir à TADx.
 Donc on prend de plus en plus en charge le voyage et l'hébergement de nos intervenantes et intervenants.
 
@@ -47,9 +47,12 @@ On comprend qu'actuellement c'est compliqué pour tout le monde, et on ne blâme
 Alors la solution c'est quoi ?
 
 Ne plus prendre en charge le déplacement de nos intervenantes et intervenants, ça c'est hors de question 🙅.
+
 Supprimer la collation de fin de meetup, c'est envisagé pour les meetups à venir si nécessaire.
+
 Espacer les dates, une fois tous les deux mois.
 Dans ce cas, le risque est de perdre de l'affluence (voir le prochain paragraphe à ce sujet).
+
 Réussir à avoir de nouveaux sponsors intéressés à rejoindre l'aventure TADx, on y travaille, mais comme on vous l'a indiqué c'est compliqué.
 À ce sujet, si vous pensez que votre entreprise peut être intéressée, n'hésitez pas à la mettre en relation avec nous, on peut vous pitcher le pourquoi et le comment devenir sponsor de TADx.
 
@@ -80,6 +83,7 @@ Oui, ressortir de chez soi le soir demande de la motivation, mais honnêtement, 
 Et si vous étiez la voix de TADx dans vos entreprises ?
 On vous propose de vous envoyer le programme de chaque mois (un mail par mois donc) pour que vous puissiez le faire suivre dans votre entreprise, mais aussi dans votre réseau professionnel et personnel.
 Et si vous en avez besoin, on peut aussi venir pitcher dans votre entreprise ce qu'est TADx et comment participer en tant qu'intervenante / intervenant, sponsor ou participante / participant.
+Si cela vous intéresse faites le nous savoir 📧.
 
 Vous l'aurez compris, TADx est à un tournant.
 Nous aimerions tant fêter les 10 ans avec vous toutes et tous 🤗.
