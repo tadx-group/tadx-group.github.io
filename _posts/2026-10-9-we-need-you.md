@@ -4,7 +4,7 @@ title: "TADx a besoin de toi ! 🫵"
 subtitle: "Aussi merveilleuse que puisse être l'aventure TADx, elle n'est rien sans vous."
 
 date: 2026-10-09
-background: '/img/event6.jpeg'
+background: '/img/you.jpg'
 permalink: /2026-10-09-we-need-you
 ---
 
