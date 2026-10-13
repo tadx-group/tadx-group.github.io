@@ -7,8 +7,19 @@
 #       url:   # URL associée au texte, par ex https://blabla
 #     - title: # Deuxième ressource et ainsi de suite
 #       url: 
-- date: 30/06/2026
-  post: 2026-06-30-69-eme-event
+- date: 09/11/2026
+  post: 2026-11-09-70-eme-event
+  title: "Object Calisthenics : </br>simplifier le code pour retrouver le métier"
+  #img: /img/event69/jacqueline.jpg
+  resources:
+    - title: Slides de Jacqueline
+      url: 
+    - title: La vidéo de la conférence
+      url: 
+    - title: Les slides TADx
+      url: 
+- date: 12/10/2026
+  post: 2026-10-12-69-eme-event
   title: "Que la Force (du Changement) soit avec toi !"
   #img: /img/event69/stephane-trebel.jpg
   resources:
@@ -32,7 +43,7 @@
 - date: 26/05/2026
   post: 2026-05-26-67-eme-event
   title: "🏴‍☠️ Fun with (feature) flags"
-  img: /img/event66/leonore-matthieu.jpg
+  img: /img/event67/leonore-matt.png
   resources:
     - title: Slides de Léonore et Matthieu
       url: 
