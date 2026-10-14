@@ -18,18 +18,23 @@ jobs:
         # Step permettant la création d'un site Netlify avec comme nom le nom de la branche ciblé par la PR
         # Il permet aussi de récupérer le site_id pour le futur déploiement.
         name: Create Site
+        env:
+          # Préfixe pour éviter les collisions : les noms de site Netlify sont uniques sur toute la plateforme
+          SITE_NAME: tadx-${{ github.head_ref }}
         run: |
-          SITE_ID=$(curl -X GET -H "Content-Type: application/json" -H "Authorization: Bearer ${{ secrets.NETLIFY_AUTH_TOKEN }}" https://api.netlify.com/api/v1/sites?name=${{github.head_ref}} | jq --raw-output '.[0].id')
-          if [ $SITE_ID == 'null' ];
+          SITE_ID=$(curl -s -X GET -H "Content-Type: application/json" -H "Authorization: Bearer ${{ secrets.NETLIFY_AUTH_TOKEN }}" "https://api.netlify.com/api/v1/sites?name=$SITE_NAME" | jq --raw-output --arg name "$SITE_NAME" 'map(select(.name == $name)) | .[0].id')
+          if [ "$SITE_ID" == 'null' ];
           then
             echo "Site inexistant"
-            SITE_ID=$(curl -X POST -H "Content-Type: application/json" -H "Authorization: Bearer ${{ secrets.NETLIFY_AUTH_TOKEN }}" -d '{"name": "${{github.head_ref}}"}' https://api.netlify.com/api/v1/sites | jq --raw-output '.id')
+            RESPONSE=$(curl -s -X POST -H "Content-Type: application/json" -H "Authorization: Bearer ${{ secrets.NETLIFY_AUTH_TOKEN }}" -d "{\"name\": \"$SITE_NAME\"}" https://api.netlify.com/api/v1/sites)
+            SITE_ID=$(echo "$RESPONSE" | jq --raw-output '.id')
           fi
-          if [ $SITE_ID == 'null' ];
+          if [ "$SITE_ID" == 'null' ];
           then
-            return -1
+            echo "Création du site $SITE_NAME impossible : $RESPONSE"
+            exit 1
           fi
-          echo "::set-output name=site-id::$SITE_ID"
+          echo "site-id=$SITE_ID" >> "$GITHUB_OUTPUT"
 
   jekyll:
     needs: create_env
