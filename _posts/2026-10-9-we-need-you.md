@@ -48,7 +48,7 @@ Alors la solution c'est quoi ?
 
 Ne plus prendre en charge le déplacement de nos intervenantes et intervenants, ça c'est hors de question 🙅.
 
-Supprimer la collation de fin de meetup, c'est envisagé pour les meetups à venir si nécessaire.
+Supprimer la collation de fin de meetup ? C'est envisagé pour les meetups à venir si nécessaire.
 
 Espacer les dates, une fois tous les deux mois.
 Dans ce cas, le risque est de perdre de l'affluence (voir le prochain paragraphe à ce sujet).
