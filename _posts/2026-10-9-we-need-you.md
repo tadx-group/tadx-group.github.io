@@ -54,7 +54,7 @@ Espacer les dates ? Ne proposer une TADx qu'une fois tous les deux mois ?
 Dans ce cas, le risque est de perdre de l'affluence (voir le prochain paragraphe à ce sujet).
 
 Réussir à avoir de nouveaux sponsors intéressés à rejoindre l'aventure TADx ? On y travaille en permanence depuis un an maintenant, et comme on vous l'a indiqué plus haut, c'est compliqué pour tout le monde.
-À ce sujet, si vous pensez que votre entreprise peut être intéressée, n'hésitez pas à la mettre en relation avec nous, on peut vous pitcher le pourquoi et le comment devenir sponsor de TADx.
+💡À ce sujet, si vous pensez que votre entreprise peut être intéressée, n'hésitez pas à nous mettre en relation :  nous pouvons venir pitcher le pourquoi et le comment devenir sponsor de TADx.
 
 ## 👥 Les participantes et participants
 
