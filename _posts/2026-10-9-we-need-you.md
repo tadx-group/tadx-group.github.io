@@ -25,7 +25,7 @@ Le reste du sponsoring sert à assurer une petite collation de fin de meetup aut
 
 Et ... c'est tout !
 
-Mais déjà avec ces éléments, et si on prend le scénario le plus défavorable, c'est-à-dire que l'on doive subventionner toutes les personnes venant, le budget de fonctionnement pour un an de meetups est aux alentours de 3 500 €.
+Mais déjà avec ces éléments, et si on prend le scénario le plus défavorable (c'est-à-dire que l'on doive subventionner toutes les personnes venant à TADx), le budget de fonctionnement pour un an de meetups se situe aux alentours de 3 500 €.
 
 Et là, pas de magie : sans sponsoring externe, on ne peut pas supporter cette charge financière 😭.
 Nous avons la chance d'avoir de fidèles sponsors depuis 7 ans maintenant et de nouveaux qui viennent chaque année, comblant le départ de certains 🤗.
