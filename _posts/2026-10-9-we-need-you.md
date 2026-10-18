@@ -46,7 +46,7 @@ On comprend qu'actuellement c'est compliqué pour tout le monde, et on ne blâme
 
 Alors la solution c'est quoi ?
 
-Ne plus prendre en charge le déplacement de nos intervenantes et intervenants, ça c'est hors de question 🙅.
+Ne plus prendre en charge le déplacement de nos intervenantes et intervenants ? Ce n'est pas dans l'ADN de TADx 🙅.
 
 Supprimer la collation de fin de meetup ? C'est envisagé pour les meetups à venir si nécessaire.
 
