@@ -68,6 +68,7 @@ Les sujets ?
 Nous n'avons pas l'impression d'avoir changé notre ligne directrice, qui est déjà très large 😆. Nous aimons inviter des speakers et des sujets qui ont un lien avec le travaille en équipe tech.
 Encore une fois, si on se trompe, faites-le-nous savoir.
 
+Le présentiel ?
 On sait que, depuis la fin du COVID, c'est compliqué de motiver les personnes à revenir le soir voir les communautés, et que tout le monde a une vie bien remplie.
 Mais il faut reconnaître que ça a du bon de voir des personnes en vrai, non ?
 
