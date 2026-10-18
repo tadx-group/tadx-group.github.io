@@ -60,7 +60,8 @@ Réussir à avoir de nouveaux sponsors intéressés à rejoindre l'aventure TADx
 
 C'est assez nouveau pour TADx, mais en plus des problèmes financiers, nous constatons ces derniers mois une baisse de la fréquentation de nos meetups.
 
-Nous avons récemment déménagé, mais le lieu, Skolae Tours, est accessible en transports en commun et il est facile de s'y garer.
+Le lieu ?
+Nous avons récemment déménagé, mais le lieu, Skolae Tours, est accessible en transports en commun et il est même plus facile de s'y garer.
 On ne pense pas que cela soit le problème, mais si on se trompe, faites-le-nous savoir 🤗.
 
 Les sujets ?
