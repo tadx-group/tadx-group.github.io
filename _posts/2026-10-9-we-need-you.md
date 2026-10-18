@@ -65,7 +65,7 @@ Nous avons récemment déménagé, mais le lieu, Skolae Tours, est accessible en
 On ne pense pas que cela soit le problème, mais si on se trompe, faites-le-nous savoir 🤗.
 
 Les sujets ?
-Nous n'avons pas l'impression d'avoir changé notre ligne directrice, qui est déjà très large 😆.
+Nous n'avons pas l'impression d'avoir changé notre ligne directrice, qui est déjà très large 😆. Nous aimons inviter des speakers et des sujets qui ont un lien avec le travaille en équipe tech.
 Encore une fois, si on se trompe, faites-le-nous savoir.
 
 On sait que, depuis la fin du COVID, c'est compliqué de motiver les personnes à revenir le soir voir les communautés, et que tout le monde a une vie bien remplie.
