@@ -88,7 +88,7 @@ Et si vous en avez besoin, on peut aussi venir pitcher dans votre entreprise ce 
 Si cela vous intéresse faites le nous savoir 📧.
 
 Vous l'aurez compris, TADx est à un tournant.
-Nous aimerions tant fêter les 10 ans avec vous toutes et tous 🤗.
+Nous avons adoré l'aventure et souhaitons continuer à l'adorer, à condition que l'objectif initial soit toujours vérifier : faire bénéficier à la communauté tech tourangelle le partage de sujets tech et moins tech qui la concerne.
 Pour ça, on a besoin de vous 🫵, alors faites passer le message !
 
 Fanny & Stéphane pour TADx
