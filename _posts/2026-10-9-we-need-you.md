@@ -78,7 +78,7 @@ Nous remettre en question côté TADx : si vous êtes déjà venu•es à TADx p
 De la même manière que nos discussions post-conférence lors d'une TADx, nous aimerions bénéficier de vos avis, besoins mais aussi idées de ce qui pourrait être une nouvelle façon de consommer du meetup et ainsi continuer de nous adapter et nous améliorer.
 
 Peut-être vous remotiver à sortir pour refaire un peu de lien social ?
-Vous nous avez aidés à construire TADx et à le faire exister depuis 7 ans.
+Vous nous avez déjà aidés à construire TADx et à le faire exister depuis 7 ans.
 Nous vous demandons de nous aider à faire en sorte qu'il perdure.
 Oui, ressortir de chez soi le soir demande de la motivation, mais honnêtement, les discussions et partages que l'on a lors des meetups en valent le coup 🤩.
 
