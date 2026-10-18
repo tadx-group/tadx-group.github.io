@@ -16,7 +16,7 @@ Mais alors, quels sont les problèmes et peut-on y faire quelque chose ? 🤔
 ## 💶 Le financement
 
 Oui, on aimerait vous dire que l'on ne va pas parler d'argent, mais, spoiler, on ne va pas bien loin sans argent 🤑.
-Reposons le contexte : comment fonctionne TADx et à quoi sert le sponsoring.
+Reposons le contexte : comment fonctionne TADx et à quoi sert le sponsoring ?
 Notre ligne directrice est de faire en sorte que la personne intervenant à TADx ne doive pas payer pour venir parler : elle se déplace déjà sur du temps personnel, c'est déjà beaucoup ! (et merci tellement pour cela 🙏)
 De ce fait, la majeure partie de notre sponsoring va dans la prise en charge du voyage et du logement de nos intervenantes et intervenants s'ils ne sont pas défrayé•es par leurs sociétés.
 Cela nous permet, aussi, de faire venir des personnes de la France entière 🤗.
