@@ -80,7 +80,7 @@ De la même manière que nos discussions post-conférence lors d'une TADx, nous 
 Peut-être vous remotiver à sortir pour refaire un peu de lien social ?
 Vous nous avez déjà aidés à construire TADx et à le faire exister depuis 7 ans.
 Nous vous demandons de nous aider à faire en sorte qu'il perdure dans les bonnes conditions.
-Oui, ressortir de chez soi le soir demande de la motivation, mais honnêtement, les discussions et partages que l'on a lors des meetups en valent le coup 🤩.
+La remise en question n'est pas facile, mais elle est nécessaire pour prendre la bonne décision : stop ou encore ?
 
 Et si vous étiez la voix de TADx dans vos entreprises ?
 On vous propose de vous envoyer le programme de chaque mois (un mail par mois donc) pour que vous puissiez le faire suivre dans votre entreprise, mais aussi dans votre réseau professionnel et personnel.
