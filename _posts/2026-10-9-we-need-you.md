@@ -50,7 +50,7 @@ Ne plus prendre en charge le déplacement de nos intervenantes et intervenants ?
 
 Supprimer la collation de fin de meetup ? C'est envisagé pour les meetups à venir si nécessaire.
 
-Espacer les dates, une fois tous les deux mois.
+Espacer les dates ? Ne proposer une TADx qu'une fois tous les deux mois ?
 Dans ce cas, le risque est de perdre de l'affluence (voir le prochain paragraphe à ce sujet).
 
 Réussir à avoir de nouveaux sponsors intéressés à rejoindre l'aventure TADx, on y travaille, mais comme on vous l'a indiqué c'est compliqué.
