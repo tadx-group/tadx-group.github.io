@@ -11,7 +11,7 @@ permalink: /2026-10-09-we-need-you
 Vous l'avez peut-être constaté, mais les conférences et les meetups tirent la langue ces derniers temps 🥵.
 Pour plusieurs raisons, parfois communes, parfois propres à l'écosystème local, la ville, ...
 Une [lettre ouverte](http://lettreouverte.afup.org) a même été faite par nos ami•es de l'[AFUP](https://afup.org/home).
-Mais alors, ce sont quoi les problèmes, et est-ce que l'on peut y faire quelque chose ? 🤔
+Mais alors, quels sont les problèmes et peut-on y faire quelque chose ? 🤔
 
 ## 💶 Le financement
 
