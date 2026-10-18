@@ -84,7 +84,7 @@ La remise en question n'est pas facile, mais elle est nécessaire pour prendre l
 
 Et si vous étiez la voix de TADx dans vos entreprises ?
 Une des idées qui a germé lors de nos réflexions est de vous proposer de devenir ambassadrice ou ambassadeur de TADx auprès de vos équipes et communautés : être le point d'entrée de TADx dans votre réseau pour repartager le programme (un mail une fois par mois) et être aussi la voix de votre entreprise pour témoigner des sujets d'actualités et qu'il serait intéressant d'adresser.
-Et si vous en avez besoin, on peut aussi venir pitcher dans votre entreprise ce qu'est TADx et comment participer en tant qu'intervenante / intervenant, sponsor ou participante / participant.
+Et si vous en avez besoin, on peut aussi venir pitcher dans votre entreprise ce qu'est TADx et comment participer en tant que speaker, sponsor ou participante / participant.
 Si cela vous intéresse faites le nous savoir 📧.
 
 Vous l'aurez compris, TADx est à un tournant.
