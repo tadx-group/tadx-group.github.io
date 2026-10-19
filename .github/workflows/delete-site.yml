@@ -12,6 +12,13 @@ jobs:
     steps:
       # Suppression du site correspondant au nom de la branche ciblée par la PR
       - name: Delete site for branch
+        env:
+          SITE_NAME: tadx-${{ github.head_ref }}
         run: |
-          SITE_ID=$(curl -X GET -H "Content-Type: application/json" -H "Authorization: Bearer ${{ secrets.NETLIFY_AUTH_TOKEN }}" https://api.netlify.com/api/v1/sites?name=${{github.head_ref}} | jq --raw-output '.[0].id')
+          SITE_ID=$(curl -s -X GET -H "Content-Type: application/json" -H "Authorization: Bearer ${{ secrets.NETLIFY_AUTH_TOKEN }}" "https://api.netlify.com/api/v1/sites?name=$SITE_NAME" | jq --raw-output --arg name "$SITE_NAME" 'map(select(.name == $name)) | .[0].id')
+          if [ "$SITE_ID" == 'null' ];
+          then
+            echo "Aucun site $SITE_NAME à supprimer"
+            exit 0
+          fi
           curl -X DELETE -H "Content-Type: application/json" -H "Authorization: Bearer ${{ secrets.NETLIFY_AUTH_TOKEN }}" https://api.netlify.com/api/v1/sites/$SITE_ID

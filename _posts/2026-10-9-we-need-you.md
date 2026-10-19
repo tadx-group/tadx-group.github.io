@@ -1,0 +1,93 @@
+---
+layout: post
+title: "TADx a besoin de toi ! 🫵"
+subtitle: "Aussi merveilleuse que puisse être l'aventure TADx, elle n'est rien sans vous."
+
+date: 2026-10-09
+background: '/img/you.jpg'
+permalink: /2026-10-09-we-need-you
+---
+
+Vous l'avez peut-être constaté, mais les conférences et les meetups tirent la langue ces derniers temps 🥵.
+Pour plusieurs raisons, parfois communes, parfois propres à l'écosystème local, la ville, ...
+Une [lettre ouverte](http://lettreouverte.afup.org) a même été lancée par nos ami•es de l'[AFUP](https://afup.org/home).
+Mais alors, quels sont les problèmes et peut-on y faire quelque chose ? 🤔
+
+## 💶 Le financement
+
+Oui, on aimerait vous dire que l'on ne va pas parler d'argent, mais, spoiler, on ne va pas bien loin sans argent 🤑.
+Reposons le contexte : comment fonctionne TADx et à quoi sert le sponsoring ?
+Notre ligne directrice est de faire en sorte que la personne intervenant à TADx ne doive pas payer pour venir parler : elle se déplace déjà sur du temps personnel, c'est déjà beaucoup ! (et merci tellement pour cela 🙏)
+De ce fait, la majeure partie de notre sponsoring va dans la prise en charge du voyage et du logement de nos intervenantes et intervenants s'ils ne sont pas défrayé•es par leurs sociétés.
+Cela nous permet, aussi, de faire venir des personnes de la France entière 🤗.
+
+Le reste du sponsoring sert à assurer une petite collation de fin de meetup autour de pizzas 🍕 et boissons sans alcool 🧋.
+
+Et ... c'est tout !
+
+Mais déjà avec ces éléments, et si on prend le scénario le plus défavorable (c'est-à-dire que l'on doive subventionner toutes les personnes venant à TADx), le budget de fonctionnement pour un an de meetups se situe aux alentours de 3 500 €.
+
+Et là, pas de magie : sans sponsoring externe, on ne peut pas supporter cette charge financière 😭.
+Nous avons la chance d'avoir de fidèles sponsors depuis 7 ans maintenant et de nouveaux qui viennent chaque année, comblant le départ de certains 🤗.
+
+Mais on constate tout de même que c'est compliqué pour tout le monde, et les comptes de TADx commencent à s'approcher du rouge 🪫.
+
+La faute à quoi ? 🤔
+
+Plusieurs facteurs.
+
+Le premier est que les sociétés défraient de moins en moins leurs salarié•es qui interviennent en conférences et meetups.
+Comme on vous l'a dit, pour nous ce n'est pas envisageable qu'une personne doive dépenser de l'argent pour venir à TADx.
+Donc on prend de plus en plus en charge le voyage et l'hébergement de nos intervenantes et intervenants.
+
+L'autre raison est que, si on a la chance d'avoir des sponsors depuis le début, certains partent et ont de plus en plus de mal à être remplacés, ou sont remplacés mais avec des niveaux de sponsoring moindres.
+
+On comprend qu'actuellement c'est compliqué pour tout le monde, et on ne blâme personne, on vous explique juste ce qu'il se passe.
+
+Alors la solution c'est quoi ?
+
+Ne plus prendre en charge le déplacement de nos intervenantes et intervenants ? Ce n'est pas dans l'ADN de TADx 🙅.
+
+Supprimer la collation de fin de meetup ? C'est envisagé pour les meetups à venir si nécessaire.
+
+Espacer les dates ? Ne proposer une TADx qu'une fois tous les deux mois ?
+Dans ce cas, le risque est de perdre de l'affluence (voir le prochain paragraphe à ce sujet).
+
+Réussir à avoir de nouveaux sponsors intéressés à rejoindre l'aventure TADx ? On y travaille en permanence depuis un an maintenant, et comme on vous l'a indiqué plus haut, c'est compliqué pour tout le monde.
+💡À ce sujet, si vous pensez que votre entreprise peut être intéressée, n'hésitez pas à nous mettre en relation :  nous pouvons venir pitcher le pourquoi et le comment devenir sponsor de TADx.
+
+## 👥 Les participantes et participants
+
+C'est assez nouveau pour TADx, mais en plus des problèmes financiers, nous constatons ces derniers mois une baisse de la fréquentation de nos meetups.
+
+Le lieu ?
+Nous avons récemment déménagé, mais le lieu, Skolae Tours, est accessible en transports en commun et il est même plus facile de s'y garer.
+On ne pense pas que cela soit le problème, mais si on se trompe, faites-le-nous savoir 🤗.
+
+Les sujets ?
+Nous n'avons pas l'impression d'avoir changé notre ligne directrice, qui est déjà très large 😆. Nous aimons inviter des speakers et des sujets qui ont un lien avec le travaille en équipe tech.
+Encore une fois, si on se trompe, faites-le-nous savoir.
+
+Le présentiel ?
+On sait que, depuis la fin du COVID, c'est compliqué de motiver les personnes à revenir le soir voir les communautés, et que tout le monde a une vie bien remplie.
+Mais il faut reconnaître que ça a du bon de voir des personnes en vrai, non ?
+
+Alors la solution c'est quoi ?
+
+Nous remettre en question côté TADx : si vous êtes déjà venu•es à TADx par le passé et que vous ne venez plus, nous sommes très intéressés par votre retour.
+De la même manière que nos discussions post-conférence lors d'une TADx, nous aimerions bénéficier de vos avis, besoins mais aussi idées de ce qui pourrait être une nouvelle façon de consommer du meetup et ainsi continuer de nous adapter et nous améliorer.
+
+Vous nous avez déjà aidés à construire TADx et à le faire exister depuis 7 ans.
+Nous vous demandons de nous aider à faire en sorte qu'il perdure dans les bonnes conditions.
+La remise en question n'est pas facile, mais elle est nécessaire pour prendre la bonne décision : stop ou encore ?
+
+Et si vous étiez la voix de TADx dans vos entreprises ?
+Une des idées qui a germé lors de nos réflexions est de vous proposer de devenir ambassadrice ou ambassadeur de TADx auprès de vos équipes et communautés : être le point d'entrée de TADx dans votre réseau pour repartager le programme (un mail une fois par mois) et être aussi la voix de votre entreprise pour témoigner des sujets d'actualités et qu'il serait intéressant d'adresser.
+Et si vous en avez besoin, on peut aussi venir pitcher dans votre entreprise ce qu'est TADx et comment participer en tant que speaker, sponsor ou participante / participant.
+Si cela vous intéresse faites le nous savoir 📧.
+
+Vous l'aurez compris, TADx est à un tournant.
+Nous avons adoré l'aventure et souhaitons continuer à l'adorer, à condition que l'objectif initial soit toujours vérifier : faire bénéficier à la communauté tech tourangelle le partage de sujets tech et moins tech qui la concerne.
+Pour ça, on a besoin de vous 🫵, alors faites passer le message !
+
+Fanny & Stéphane pour TADx
