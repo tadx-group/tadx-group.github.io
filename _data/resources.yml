@@ -7,26 +7,37 @@
 #       url:   # URL associée au texte, par ex https://blabla
 #     - title: # Deuxième ressource et ainsi de suite
 #       url: 
-- date: 09/11/2026
-  post: 2026-11-09-70-eme-event
+- date: 08/12/2026
+  post: 2026-12-08-71-eme-event
   title: "Object Calisthenics : </br>simplifier le code pour retrouver le métier"
-  #img: /img/event69/jacqueline.jpg
+  #img: /img/event71/amelie.jpg
   resources:
-    - title: Slides de Jacqueline
+    - title: Slides d'Amelie
       url: 
     - title: La vidéo de la conférence
       url: 
     - title: Les slides TADx
       url: 
+- date: 09/11/2026
+  post: 2026-11-09-70-eme-event
+  title: "Object Calisthenics : </br>simplifier le code pour retrouver le métier"
+  img: /img/event70/jacqueline.jpg
+  resources:
+    - title: Slides de Jacqueline
+      url: https://drive.google.com/file/d/1wZ6-y0BZJt_IXHqa2xQ-Olkj1jRQa43V/view?usp=sharing
+    - title: La vidéo de la conférence
+      url: https://youtu.be/TGfwd0AYyNk
+    - title: Les slides TADx
+      url: 
 - date: 12/10/2026
   post: 2026-10-12-69-eme-event
   title: "Que la Force (du Changement) soit avec toi !"
-  #img: /img/event69/stephane-trebel.jpg
+  img: /img/event69/stephane-trebel.jpg
   resources:
     - title: Slides de Stéphane
-      url: 
+      url: https://github.com/StephaneTrebel/presentations/blob/main/que-la-force-du-changement-soit-avec-toi/slides-tadx.pdf
     - title: La vidéo de la conférence
-      url: 
+      url: https://youtu.be/P-y-_CdAtsA
     - title: Les slides TADx
       url: 
 - date: 30/06/2026
