@@ -44,11 +44,12 @@ Le plus simple : le **parking public gratuit de la Gloriette** (61 avenue de Pon
 
 Et si vous préférez vous garer un peu plus loin, le parking **L'Heure Tranquille** (rue Mérieux) est à quelques minutes à pied du campus : la **première heure est gratuite** 🎉 et il est ouvert 24h/24.
 
+<!--
 ### 🎬 En vidéo
 
 On vous explique comment se repérer jusqu'au parking de la Gloriette :
 
-<!-- 🎬 À COMPLÉTER : coller ici l'embed de la vidéo (iframe YouTube, Vimeo, etc.), par exemple :
+ 🎬 À COMPLÉTER : coller ici l'embed de la vidéo (iframe YouTube, Vimeo, etc.), par exemple :
 <div class="embed-responsive embed-responsive-16by9">
   <iframe src="https://www.youtube.com/embed/XXXX" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
