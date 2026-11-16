@@ -24,7 +24,7 @@ Bonne nouvelle : le campus est **entièrement accessible PMR** ♿.
 ## 🚋 En tram
 
 C'est le mode le plus simple : ligne **A**, arrêt **L'Heure Tranquille** 🎯.
-L'arrêt est à seulement **4 minutes à pied** du campus.
+L'arrêt est à seulement **2 minutes à pied** du campus.
 
 Comptez environ 15 minutes de tram depuis la gare pour arriver devant le campus.
 
