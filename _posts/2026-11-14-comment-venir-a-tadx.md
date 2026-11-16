@@ -30,7 +30,7 @@ Comptez environ 15 minutes de tram depuis la gare pour arriver devant le campus.
 
 ## 🚌 En bus
 
-La ligne **32** s'arrête en **Jacques Monod**, à environ 11 minutes à pied du campus.
+La ligne **32** s'arrête en **Jacques Monod**, à environ 10 minutes à pied du campus.
 Consultez les horaires sur l'appli [Fil Bleu](https://www.filbleu.fr/){:target="_blank"}.
 
 ## 🚲 À vélo
@@ -59,9 +59,9 @@ On vous explique comment se repérer jusqu'au parking de la Gloriette :
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d8998.252073538026!2d0.6592146080986376!3d47.366557651928325!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47fcd670d7b9c78f%3A0x6d3c159d1624bee8!2sCampus%20Skolae%20Tours!5e0!3m2!1sfr!2sfr!4v1787647088610!5m2!1sfr!2sfr" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
 
-- 🚋 **Tram A** → arrêt *L'Heure Tranquille*, ~4 min à pied
-- 🚌 **Bus 32** → arrêt *Jacques Monod*, ~11 min à pied
-- 🚲 **Vélo** → parc à vélos place Louise-Weiss, ~1 min à pied
+- 🚋 **Tram A** → arrêt *L'Heure Tranquille*, ~2 min à pied
+- 🚌 **Bus 32** → arrêt *Jacques Monod*, ~10 min à pied
+- 🚲 **Vélo** → parc à vélos place Louise-Weiss, parking sur place
 - 🚗 **Voiture** → parking public gratuit *La Gloriette* (61 av. de Pont-Cher, juste en face)
 
 Vous voilà paré•e : plus aucune excuse pour manquer une TADx 😎.
